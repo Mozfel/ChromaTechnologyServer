@@ -1,0 +1,226 @@
+{
+	"images": {
+		"title": {
+			"image": "chromapack:textures/mainmenu/modpack_logo.png",
+			"posX": -170,
+			"posY": 0,
+			"width": 333,
+			"height": 198,
+			"imageWidth": 1482,
+			"imageHeight": 880,
+			"alignment": "top_center"
+		}
+	},
+	"buttons": {
+		"singleplayer": {
+			"text": "menu.singleplayer",
+			"texture": "chromapack:textures/mainmenu/btn.png",
+			"hoverTextColor": 5308415,
+			"alignment": "bottom_left",
+			"textOffsetX": -50,
+			"posX": 10,
+			"posY": -140,
+			"width": 200,
+			"height": 20,
+			"imageWidth": 200,
+			"imageHeight": 20,
+			"action": {
+				"type": "openGui",
+				"gui": "singleplayer"
+			}
+		},
+		"multiplayer": {
+			"text": "menu.multiplayer",
+			"texture": "chromapack:textures/mainmenu/btn.png",
+			"hoverTextColor": 5308415,
+			"alignment": "bottom_left",
+			"textOffsetX": -54,
+			"posX": 10,
+			"posY": -120,
+			"width": 200,
+			"height": 20,
+			"imageWidth": 200,
+			"imageHeight": 20,
+			"action": {
+				"type": "openGui",
+				"gui": "multiplayer"
+			}
+		},
+		"bisect": {
+			"text": "Get a Server",
+			"texture": "chromapack:textures/mainmenu/btn.png",
+			"hoverTextColor": 5308415,
+			"alignment": "bottom_left",
+			"textOffsetX": -49,
+			"posX": 10,
+			"posY": -100,
+			"width": 200,
+			"height": 20,
+			"imageWidth": 200,
+			"imageHeight": 20,
+			"action": {
+				"type": "openLink",
+				"link": "https://bisecthosting.com/CHROMATECH "
+			}
+		},
+		"options": {
+			"text": "menu.options",
+			"texture": "chromapack:textures/mainmenu/btn.png",
+			"hoverTextColor": 5308415,
+			"alignment": "bottom_left",
+			"textOffsetX": -60,
+			"posX": 10,
+			"posY": -80,
+			"width": 200,
+			"height": 20,
+			"imageWidth": 200,
+			"imageHeight": 20,
+			"action": {
+				"type": "openGui",
+				"gui": "options"
+			}
+		},
+		"quit": {
+			"text": "Quit Game",
+			"texture": "chromapack:textures/mainmenu/btn.png",
+			"hoverTextColor": 5308415,
+			"alignment": "bottom_left",
+			"textOffsetX": -58,
+			"posX": 10,
+			"posY": -60,
+			"width": 200,
+			"height": 20,
+			"imageWidth": 200,
+			"imageHeight": 20,
+			"action": {
+				"type": "quit"
+			}
+		},
+		"youtube": {
+			"text": "YouTube Channel",
+			"textOffsetX": 45,
+			"texture": "chromapack:textures/mainmenu/btn.png",
+			"hoverTextColor": 5308415,
+			"alignment": "bottom_right",
+			"posX": -210,
+			"posY": -140,
+			"width": 200,
+			"height": 20,
+			"imageWidth": 200,
+			"imageHeight": 20,
+			"action": {
+				"type": "openLink",
+				"link": "https://www.youtube.com/user/gogo08190"
+			}
+		},
+		"discord": {
+			"text": "Discord",
+			"textOffsetX": 63,
+			"texture": "chromapack:textures/mainmenu/btn.png",
+			"hoverTextColor": 5308415,
+			"alignment": "bottom_right",
+			"posX": -210,
+			"posY": -120,
+			"width": 200,
+			"height": 20,
+			"imageWidth": 200,
+			"imageHeight": 20,
+			"action": {
+				"type": "openLink",
+				"link": "https://discord.gg/cVEMguY"
+			}
+		},
+		"mods": {
+			"text": "Loaded Mods",
+			"textOffsetX": 50,
+			"texture": "chromapack:textures/mainmenu/btn.png",
+			"hoverTextColor": 5308415,
+			"alignment": "bottom_right",
+			"posX": -210,
+			"posY": -100,
+			"width": 200,
+			"height": 20,
+			"imageWidth": 200,
+			"imageHeight": 20,
+			"action": {
+				"type": "openGui",
+				"gui": "mods"
+			}
+		},
+		"supportdev": {
+			"text": "Support My Work",
+			"textOffsetX": 40,
+			"texture": "chromapack:textures/mainmenu/btn.png",
+			"hoverTextColor": 5308415,
+			"alignment": "bottom_right",
+			"posX": -210,
+			"posY": -80,
+			"width": 200,
+			"height": 20,
+			"imageWidth": 200,
+			"imageHeight": 20,
+			"action": {
+				"type": "openLink",
+				"link": "https://bit.ly/chroma-technogical-donate"
+			}
+		},
+		"languagebutton": {
+			"text": "Language...",
+			"texture": "chromapack:textures/mainmenu/btn.png",
+			"hoverTextColor": 5308415,
+			"alignment": "bottom_right",
+			"textOffsetX": 55,
+			"posX": -210,
+			"posY": -60,
+			"width": 200,
+			"height": 20,
+			"imageWidth": 200,
+			"imageHeight": 20,
+			"action": {
+				"type": "openGui",
+				"gui": "languages"
+			}
+		},
+		"modslabel": {
+			"text": "#modsactive# mods loaded and active",
+			"texture": "chromapack:textures/mainmenu/btn_blank.png",
+			"width": 140,
+			"height": 8,
+			"posX": 1,
+			"posY": -10,
+			"normalTextColor": 16777215,
+			"hoverTextColor": 16777215,
+			"tooltip": "Running Forge #forgeversion#",
+			"alignment": "bottom_left"
+		}
+	},
+	"labels": {
+		"mojang": {
+			"text": "Copyright Mojang AB. Do not distribute!",
+			"posX": -197,
+			"posY": -10,
+			"color": -1,
+			"alignment": "bottom_right"
+		},
+		"the1122pack": {
+			"text": "Chroma Technology Pack v1.4.2",
+			"posX": 1,
+			"posY": 2,
+			"color": -1,
+			"alignment": "top_left",
+			"action": {
+				"type": "openLink",
+				"link": "https://www.youtube.com/user/gogo08190"
+			}
+		}
+	},
+	"other": {
+		"panorama": {
+			"images": "biomesoplenty:textures/gui/title/background/panorama_%c.png",
+			"animate": true,
+			"animationSpeed": 1,
+			"blur": true,
+			"gradient": true
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+	x: -3.0d,
+	y: 3.0d,
+	description: "Can bring multiple connexions",
+	dependencies: [
+		"0275c4e2"
+	],
+	tasks: [{
+		uid: "e7e44194",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "2c767b90",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "4465ae0f",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

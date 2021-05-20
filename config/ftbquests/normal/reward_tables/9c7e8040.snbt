@@ -1,0 +1,463 @@
+{
+	title: "Basic quests",
+	loot_size: 1,
+	rewards: [{
+		item: "minecraft:cobblestone",
+		count: 64
+	},
+	{
+		item: "minecraft:log",
+		count: 64
+	},
+	{
+		item: "minecraft:sand",
+		count: 64
+	},
+	{
+		item: "minecraft:gravel",
+		count: 64
+	},
+	{
+		item: "minecraft:torch",
+		count: 16
+	},
+	{
+		item: "minecraft:enchanting_table"
+	},
+	{
+		item: "minecraft:bed 1 1"
+	},
+	{
+		item: "minecraft:end_crystal"
+	},
+	{
+		item: "minecraft:piston",
+		count: 2
+	},
+	{
+		item: "minecraft:sticky_piston",
+		count: 2
+	},
+	{
+		item: "minecraft:noteblock"
+	},
+	{
+		item: "minecraft:hopper",
+		count: 2
+	},
+	{
+		item: "minecraft:coal",
+		count: 8
+	},
+	{
+		item: "minecraft:ender_pearl",
+		count: 2
+	},
+	{
+		item: "minecraft:blaze_powder",
+		count: 4
+	},
+	{
+		item: "minecraft:ghast_tear",
+		count: 2
+	},
+	{
+		item: "minecraft:clock"
+	},
+	{
+		item: "minecraft:compass"
+	},
+	{
+		item: "minecraft:cooked_beef",
+		count: 8
+	},
+	{
+		item: "minecraft:cooked_chicken",
+		count: 8
+	},
+	{
+		item: "minecraft:apple",
+		count: 8
+	},
+	{
+		item: "minecraft:cookie",
+		count: 8
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:cake"
+		},
+		count: 8
+	},
+	{
+		item: "minecraft:wheat_seeds",
+		count: 8
+	},
+	{
+		item: "minecraft:pumpkin_seeds",
+		count: 8
+	},
+	{
+		item: "minecraft:melon_seeds",
+		count: 8
+	},
+	{
+		item: "minecraft:baked_potato",
+		count: 8
+	},
+	{
+		item: "minecraft:cooked_rabbit",
+		count: 8
+	},
+	{
+		item: "minecraft:pumpkin_pie",
+		count: 8
+	},
+	{
+		item: "minecraft:golden_carrot",
+		count: 8
+	},
+	{
+		item: "minecraft:golden_apple",
+		count: 4
+	},
+	{
+		item: "minecraft:golden_apple 1 1",
+		count: 2
+	},
+	{
+		item: "environmentaltech:litherite_crystal",
+		count: 8
+	},
+	{
+		item: "enderstorage:ender_storage"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderstorage:ender_pouch"
+		}
+	},
+	{
+		item: "enderstorage:ender_storage 1 1"
+	},
+	{
+		item: "enderutilities:enderpart 1 52"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderio:item_ender_food"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderio:item_yeta_wrench"
+		}
+	},
+	{
+		item: "enderio:item_extract_speed_upgrade",
+		count: 5
+	},
+	{
+		item: "enderio:item_liquid_conduit 1 2",
+		count: 8
+	},
+	{
+		item: "enderio:item_power_conduit 1 2",
+		count: 8
+	},
+	{
+		item: "enderio:item_redstone_conduit",
+		count: 8
+	},
+	{
+		item: "enderio:item_item_conduit",
+		count: 8
+	},
+	{
+		item: "cyclicmagic:inventory_food"
+	},
+	{
+		item: "cyclicmagic:crafting_food"
+	},
+	{
+		item: "cyclicmagic:heart_food"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "cyclicmagic:glowing_helmet",
+			tag: {}
+		}
+	},
+	{
+		item: "cookingforblockheads:cow_jar"
+	},
+	{
+		item: "cookingforblockheads:sink"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:wrench"
+		}
+	},
+	{
+		item: "thermaldynamics:servo"
+	},
+	{
+		item: "thermalexpansion:augment 1 128"
+	},
+	{
+		item: "minecraft:concrete 1 1",
+		count: 8
+	},
+	{
+		item: "minecraft:furnace",
+		count: 2
+	},
+	{
+		item: "actuallyadditions:block_giant_chest"
+	},
+	{
+		item: "thermaldynamics:duct_16 1 3",
+		count: 8
+	},
+	{
+		item: "thermaldynamics:duct_32 1 1",
+		count: 8
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "betterbuilderswands:wanddiamond"
+		}
+	},
+	{
+		item: "enderio:item_material 1 20",
+		count: 2
+	},
+	{
+		item: "pneumaticcraft:ingot_iron_compressed",
+		count: 4
+	},
+	{
+		item: "bonsaitrees:bonsaipot"
+	},
+	{
+		item: "bonsaitrees:bonsaipot 1 1"
+	},
+	{
+		item: "actuallyadditions:item_solidified_experience",
+		count: 16
+	},
+	{
+		item: "ae2wtlib:infinity_booster_card",
+		count: 4
+	},
+	{
+		item: "environmentaltech:erodium_crystal",
+		count: 4
+	},
+	{
+		item: "environmentaltech:kyronite_crystal"
+	},
+	{
+		item: "environmentaltech:pladium_crystal"
+	},
+	{
+		item: "botania:blacklotus",
+		count: 2
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderutilities:dolly"
+		}
+	},
+	{
+		xp: 100,
+		type: "xp"
+	},
+	{
+		item: "contenttweaker:ccoins",
+		count: 10,
+		random_bonus: 20
+	},
+	{
+		item: "thermalfoundation:material 1 160",
+		count: 16
+	},
+	{
+		item: "enderio:item_alloy_ingot",
+		count: 16
+	},
+	{
+		item: "enderio:item_alloy_ingot 1 8",
+		count: 16
+	},
+	{
+		item: "enderio:item_alloy_ingot 1 6",
+		count: 16
+	},
+	{
+		item: "extrautils2:ingredients 1 10"
+	},
+	{
+		item: {
+			id: "culinaryconstruct:sandwich",
+			tag: {
+				Size: 5,
+				Saturation: 1.0f,
+				Ingredients: {
+					Items: [{
+						Slot: 0b,
+						id: "minecraft:nether_star",
+						Count: 1b,
+						Damage: 0s
+					},
+					{
+						Slot: 1b,
+						id: "minecraft:nether_star",
+						Count: 1b,
+						Damage: 0s
+					},
+					{
+						Slot: 2b,
+						id: "minecraft:nether_star",
+						Count: 1b,
+						Damage: 0s
+					},
+					{
+						Slot: 3b,
+						id: "minecraft:nether_star",
+						Count: 1b,
+						Damage: 0s
+					},
+					{
+						Slot: 4b,
+						id: "minecraft:nether_star",
+						Count: 1b,
+						Damage: 0s
+					},
+					{
+						Slot: 5b,
+						id: "minecraft:bread",
+						Count: 1b,
+						Damage: 0s
+					}]
+				},
+				Bonus: 2,
+				Depth: 0,
+				Food: 20
+			}
+		},
+		count: 2
+	},
+	{
+		item: "harvestcraft:pizzasliceitem",
+		count: 8
+	},
+	{
+		item: "harvestcraft:meatfeastpizzaitem",
+		count: 4
+	},
+	{
+		item: "harvestcraft:koreandinneritem",
+		count: 4
+	},
+	{
+		item: "harvestcraft:thankfuldinneritem",
+		count: 4
+	},
+	{
+		item: "harvestcraft:nutellaitem",
+		count: 8
+	},
+	{
+		item: {
+			id: "thermalexpansion:morb",
+			tag: {
+				Generic: 1b,
+				id: "aether_legacy:valkyrie"
+			}
+		}
+	},
+	{
+		item: {
+			id: "thermalexpansion:morb",
+			tag: {
+				Generic: 1b,
+				id: "minecraft:guardian"
+			}
+		}
+	},
+	{
+		item: "biomesoplenty:terrarium"
+	},
+	{
+		item: "biomesoplenty:terrarium 1 7"
+	},
+	{
+		item: "biomesoplenty:terrarium 1 8"
+	},
+	{
+		item: "biomesoplenty:terrarium 1 2"
+	},
+	{
+		item: "immersiveengineering:material 1 7",
+		count: 16
+	},
+	{
+		item: "immersiveengineering:wooden_device1 1 3"
+	},
+	{
+		item: "immersiveengineering:metal_decoration2"
+	},
+	{
+		item: "immersiveengineering:metal_decoration2 1 2"
+	},
+	{
+		item: "immersiveengineering:metal_decoration2 1 5",
+		count: 16
+	},
+	{
+		item: "aether_legacy:candy_cane",
+		count: 4
+	},
+	{
+		item: "techreborn:scrapbox",
+		count: 16
+	},
+	{
+		item: "ic2:wall 1 7",
+		count: 64
+	},
+	{
+		item: "immersiveengineering:stone_decoration 1 5",
+		count: 64
+	},
+	{
+		item: "immersivepetroleum:stone_decoration",
+		count: 64
+	}]
+}

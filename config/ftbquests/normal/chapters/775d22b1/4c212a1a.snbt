@@ -1,0 +1,35 @@
+{
+	title: "The Gun that shoots CF",
+	x: -7.5d,
+	y: 9.5d,
+	text: [
+		"To put CF in it you'll have to craft the Fluid/Canning Machine and put the CF powder in it and water to craft the CF.",
+		"To put it in your CF Sprayer you'll have to go through the Fluid Transposer from Thermal. ",
+		"Once that all is connected and ready put the Sprayer in the transposer and you can already use it for decoration "
+	],
+	dependencies: [
+		"28ae9303"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "bf98ec73",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ic2:foam_sprayer"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "45d6edcc",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "6717eb68",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	title: "Solar Panel",
+	x: -5.0d,
+	y: 4.0d,
+	description: "The first Solar Panel",
+	text: [
+		"Generates 1EU/t during daylights hours (6:20 to 17h45) ",
+		"Inclement weather affects badly the energy productions"
+	],
+	dependencies: [
+		"c171e508"
+	],
+	tasks: [{
+		uid: "ada48778",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "d0410ae6",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "19e9ec57",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

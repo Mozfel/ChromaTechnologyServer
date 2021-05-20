@@ -1,0 +1,17 @@
+{
+	title: "Actually Additions",
+	x: 3.0d,
+	y: 0.0d,
+	shape: "gear",
+	description: "Start Actually !",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "45f27595",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_misc 1 5"
+		}]
+	}]
+}

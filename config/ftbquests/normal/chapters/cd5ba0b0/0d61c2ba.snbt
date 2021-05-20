@@ -1,0 +1,27 @@
+{
+	title: "Boron Ore",
+	x: 6.0d,
+	y: 1.5d,
+	shape: "gear",
+	description: "No it is not moron :P",
+	dependencies: [
+		"33642fe4"
+	],
+	tasks: [{
+		uid: "935a0fac",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:ore 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "51fbe5c4",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "b0f14b17",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

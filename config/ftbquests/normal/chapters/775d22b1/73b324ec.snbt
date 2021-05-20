@@ -1,0 +1,41 @@
+{
+	title: "The Blast Furnace",
+	x: 14.5d,
+	y: 9.0d,
+	description: "Your first multiblock",
+	text: [
+		"The main goal is to have the tungstensteel ingot which requires 3000 heat. Obviously the first casing aren't good enough to reach that. So you'll have to craft the next casings ... Don't forget that the multiblock is hollow and should have lava ",
+		"in the space available (2 blocks)"
+	],
+	dependencies: [
+		"7c0782d3",
+		"eb685de3"
+	],
+	tasks: [{
+		uid: "e468cd56",
+		type: "item",
+		items: [{
+			id: "techreborn:industrial_blast_furnace",
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "44b6a9f9",
+		type: "item",
+		items: [{
+			item: "techreborn:machine_casing"
+		}],
+		count: 34L
+	}],
+	rewards: [{
+		uid: "43421f05",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "42e6b2f6",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

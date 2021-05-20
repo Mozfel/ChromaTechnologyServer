@@ -1,0 +1,7 @@
+{
+	title: "Genetic And more [OPTIONAL]",
+	icon: "gendustry:sampler",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

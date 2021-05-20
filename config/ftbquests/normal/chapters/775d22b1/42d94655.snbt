@@ -1,0 +1,26 @@
+{
+	title: "The Furnace",
+	x: -6.5d,
+	y: 7.5d,
+	description: "Cooking at it's best",
+	dependencies: [
+		"c171e508"
+	],
+	tasks: [{
+		uid: "94d85876",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 44"
+		}]
+	}],
+	rewards: [{
+		uid: "4838bd98",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "4176e93f",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

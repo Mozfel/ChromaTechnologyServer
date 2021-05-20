@@ -1,0 +1,356 @@
+[PREINITIALIZATION][SERVER][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
+BigAl607
+Genryu
+Robijnvogel
+NickT
+Ncc1702
+Jonathan McManus
+DreamThorn
+AdaraChristine
+Shotguun29
+Ivy_
+Belathus
+Barrier
+Gildrag 09
+Otakup0pe
+Pongo Sapiens
+IDroid
+Peregrinus11
+Quaternary
+Jams
+KyoSohma
+If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
+
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[2:contenttweaker]: contenttweaker\general_additions.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Armors\armors_evolution.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Armors\Overloaded.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Other\CompactVoidMiner.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Other\conflict.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Other\Extreme Content.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Other\misc.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Other\removes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Other\Solar.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: useless things.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 2ms
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [alchemistry]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [alchemistry]
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[2:contenttweaker]: contenttweaker\general_additions.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Armors\armors_evolution.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Armors\Overloaded.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Other\CompactVoidMiner.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Other\conflict.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Other\Extreme Content.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Other\misc.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Other\removes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Other\Solar.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: useless things.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 1ms
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [alchemistry], [contenttweaker]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Loading Script: {[2:contenttweaker]: contenttweaker\general_additions.zs}
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Armors\armors_evolution.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Armors\Overloaded.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Other\CompactVoidMiner.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Other\conflict.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Other\Extreme Content.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Other\misc.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Other\removes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Other\Solar.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: useless things.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 165ms
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [alchemistry], [contenttweaker], [recipeevent | crafttweaker]]
+[INITIALIZATION][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Skipping file {[2:contenttweaker]: contenttweaker\general_additions.zs} as we are currently loading with a different loader
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Armors\armors_evolution.zs}
+[INITIALIZATION][SERVER][INFO] Removing The Gift Of The Gods recipe for Workbench
+[INITIALIZATION][SERVER][INFO] Adding Chicken Helmet recipe for Workbench
+[INITIALIZATION][SERVER][INFO] Adding Chicken Chestplate recipe for Workbench
+[INITIALIZATION][SERVER][INFO] Adding Chicken Leggings recipe for Workbench
+[INITIALIZATION][SERVER][INFO] Adding Chicken Boots recipe for Workbench
+[INITIALIZATION][SERVER][INFO] Adding Slime Helmet recipe for Workbench
+[INITIALIZATION][SERVER][INFO] Adding Slime Chestplate recipe for Workbench
+[INITIALIZATION][SERVER][INFO] Adding Slime Leggings recipe for Workbench
+[INITIALIZATION][SERVER][INFO] Adding Slime Boots recipe for Workbench
+[INITIALIZATION][SERVER][INFO] Adding Coal Helmet recipe for Workbench
+[INITIALIZATION][SERVER][INFO] Adding Coal Chestplate recipe for Workbench
+[INITIALIZATION][SERVER][INFO] Adding Coal Leggings recipe for Workbench
+[INITIALIZATION][SERVER][INFO] Adding Coal Boots recipe for Workbench
+[INITIALIZATION][SERVER][INFO] Adding Redstone Helmet recipe for Workbench
+[INITIALIZATION][SERVER][INFO] Adding Redstone Chestplate recipe for Workbench
+[INITIALIZATION][SERVER][INFO] Adding Redstone Leggings recipe for Workbench
+[INITIALIZATION][SERVER][INFO] Adding Redstone Boots recipe for Workbench
+[INITIALIZATION][SERVER][INFO] Adding Lapis Helmet recipe for Workbench
+[INITIALIZATION][SERVER][INFO] Adding Lapis Chestplate recipe for Workbench
+[INITIALIZATION][SERVER][INFO] Adding Lapis Leggings recipe for Workbench
+[INITIALIZATION][SERVER][INFO] Adding Lapis Boots recipe for Workbench
+[INITIALIZATION][SERVER][INFO] Adding Inferium Helmet recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Inferium Chestplate recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Inferium Leggings recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Inferium Boots recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Obsidian Helmet recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Obsidian Chestplate recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Obsidian Leggings recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Obsidian Boots recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Prudentium Helmet recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Prudentium Chestplate recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Prudentium Leggings recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Prudentium Boots recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Pig Iron Helmet recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Pig Iron Chestplate recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Pig Iron Leggings recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Pig Iron Boots recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Intermedium Helmet recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Intermedium Chestplate recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Intermedium Leggings recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Intermedium Boots recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Infused Lava Helmet recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Infused Lava Chestplate recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Infused Lava Leggings recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Infused Lava Boots recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Superium Helmet recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Superium Chestplate recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Superium Leggings recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Superium Boots recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Knight Slime Helmet recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Knight Slime Chestplate recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Knight Slime Leggings recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Knight Slime Boots recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Ardite Helmet recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Ardite Chestplate recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Ardite Leggings recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Ardite Boots recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Cobalt Helmet recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Cobalt Chestplate recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Cobalt Leggings recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Cobalt Boots recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Emerald Helmet recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Emerald Chestplate recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Emerald Leggings recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Emerald Boots recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Manyullyn Helmet recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Manyullyn Chestplate recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Manyullyn Leggings recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Manyullyn Boots recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Guardian Helmet recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Guardian Chestplate recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Guardian Leggings recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Guardian Boots recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Super Star Helmet recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Super Star Chestplate recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Super Star Leggings recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Super Star Boots recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Ender Dragon Helmet recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Ender Dragon Chestplate recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Ender Dragon Leggings recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Ender Dragon Boots recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Supremium Helmet recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Supremium Chestplate recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Supremium Leggings recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding Supremium Boots recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding The Ultimate Material recipe for High-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding The Ultimate Helmet Left recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding The Ultimate Helmet Right recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding The Ultimate Helmet Middle recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding The Ultimate Helmet recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding The Ultimate Chestplate Left recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding The Ultimate Chestplate Right recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding The Ultimate Chestplate Middle recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding The Ultimate Chestplate recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding The Ultimate Legging Left recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding The Ultimate Legging Right recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding The Ultimate Legging Middle recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding The Ultimate Leggings recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding The Ultimate Boots Left recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding The Ultimate Boots Right recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding The Ultimate Boots Middle recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding The Ultimate Boots recipe for Ulti-Tech Bench
+[INITIALIZATION][SERVER][INFO] Adding a Combination Crafting recipe for Wyvern Helm
+[INITIALIZATION][SERVER][INFO] Adding a Combination Crafting recipe for Wyvern Chestplate
+[INITIALIZATION][SERVER][INFO] Adding a Combination Crafting recipe for Wyvern Leggings
+[INITIALIZATION][SERVER][INFO] Adding a Combination Crafting recipe for Wyvern Boots
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Armors\Overloaded.zs}
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Multi Chestplate
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Multi Helmet
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Multi Leggings
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Multi Boots
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Railgun
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Other\CompactVoidMiner.zs}
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Compact Void Miner
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Compact Void Pump
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Other\conflict.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Other\Extreme Content.zs}
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for The Everlasting Guilty Pool
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Creative Flux Capacitor
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Creative Fluid Tank
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Creative Gas Tank
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Creative Mill
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Creative Energy Cell
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Creative Solar Array
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Creative Compressor
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for The Ultimate Ingot
+[INITIALIZATION][SERVER][INFO] Removing all Table Crafting recipes for Crystaltine Ingot
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Crystaltine Ingot
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Creative Essence
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Flux Sponge
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Creative Modifier
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Angel Ring
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Angel Ring
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Angel Ring
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Angel Ring
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Angel Ring
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Angel Ring
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for /dank/null/Creative
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Creative Wireless Crafting Terminal
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Mana Tablet
+[INITIALIZATION][SERVER][INFO] Adding a Combination Crafting recipe for The Ultimate Catalyst
+[INITIALIZATION][SERVER][INFO] Adding an Ender Crafting recipe for Black Iron Ingot
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Block of Black Iron
+[INITIALIZATION][SERVER][INFO] Adding an Ender Crafting recipe for Luminessence
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Coal Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Iron Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Lapis Lazuli Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Redstone Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Glowstone Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Gold Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Diamond Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Emerald Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Aluminum Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Copper Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Tin Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Bronze Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Zinc Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Brass Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Silver Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Lead Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Steel Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Nickel Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Constantan Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Electrum Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Invar Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Mithril Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Tungsten Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Titanium Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Uranium Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Chrome Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Platinum Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Iridium Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Signalum Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Lumium Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Enderium Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Ardite Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Cobalt Singularity
+[INITIALIZATION][SERVER][INFO] Removing all Compression Crafting recipes for Manyullyn Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Coal Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Iron Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Lapis Lazuli Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Redstone Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Glowstone Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Gold Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Diamond Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Emerald Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Aluminum Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Copper Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Tin Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Bronze Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Zinc Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Brass Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Silver Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Lead Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Steel Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Nickel Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Constantan Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Electrum Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Invar Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Mithril Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Tungsten Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Titanium Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Uranium Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Chrome Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Platinum Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Iridium Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Signalum Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Lumium Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Enderium Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Ardite Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Cobalt Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Manyullyn Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Chaos Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for Honey Comb Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Combination Crafting recipe for RF Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Combination Crafting recipe for EU Singularity
+[INITIALIZATION][SERVER][INFO] Adding a Compression Crafting recipe for UU-Matter Singularity
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Other\misc.zs}
+[INITIALIZATION][SERVER][INFO] Adding a Combination Crafting recipe for Fusion Controller
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Other\removes.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Other\Solar.zs}
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Wyvern Solar Panel
+[INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Draconic Solar Panel
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: useless things.zs}
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 390ms
+[POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Energy Core with name ct_shaped-1554526919
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Hyper Linking Card with name ct_shaped1223350939
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Ring with name ct_shaped802261676
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Golden Ring with name ct_shaped935573421
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Frame with name ct_shaped-1696788587
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Mana Tablet with name ct_shaped2063476584
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Mana Tablet with name ct_shaped1535110983
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Copper Ingot with name ct_shaped1390743718
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Tin Ingot with name ct_shaped522130531
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Bronze Ingot with name ct_shaped1993313669
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Zinc Ingot with name ct_shaped1552397096
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Brass Ingot with name ct_shaped115446402
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Silver Ingot with name ct_shaped-1907258547
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lead Ingot with name ct_shaped2008546164
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Steel Ingot with name ct_shaped-1485965616
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Ruby with name ct_shaped1280873963
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Peridot with name ct_shaped-1467612709
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sapphire with name ct_shaped838455508
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Beneath Teleporter with name ct_shaped605923403
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Tier 2 Battery with name ct_shaped-1320651306
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Fusion Core with name ct_shaped1716304148
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Creative Storage Upgrade with name ct_shaped-2102985860
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Glowing Mushroom with name ct_shaped2064528272
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Glowing Mushroom with name ct_shaped306718891
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Mirror with name ct_shaped-1464572630
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Solar Panel I with name ct_shaped1262506155
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Solar Panel II with name ct_shaped-1401809896
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Solar Panel III with name ct_shaped-1432872163
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Solar Panel III with name ct_shaped-1625684629
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Photovoltaic Cell II with name ct_shaped-122209083
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Solar Panel IV with name ct_shaped1936969460
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Solar Panel IV with name ct_shaped1146282412
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Photovoltaic Cell III with name ct_shaped-984782910
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Solar Panel V with name ct_shaped1997612392
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Solar Panel V with name ct_shaped-1473934552
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Photovoltaic Cell IV with name ct_shaped-2103316350
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Solar Panel VI with name ct_shaped1762280860
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Solar Panel VI with name ct_shaped547413202
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Photovoltaic Cell V with name ct_shaped-1939655622
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Solar Panel VII with name ct_shaped375874280
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Photovoltaic Cell VI with name ct_shaped1461780394
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Solar Panel VIII with name ct_shaped-1370364536
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Smelter Recipe(s) for <mekanism:ingot:5>
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Smelter Recipe(s) for <mekanism:ingot:6>
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Smelter Recipe(s) for <ic2:ingot:4>
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Smelter Recipe(s) for <ic2:ingot:3>
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Smelter Recipe(s) for <alchemistry:ingot:27>
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Smelter Recipe(s) for <mekanism:ingot:4>
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Crusher Recipe(s) for <thermalfoundation:material:893> * 3
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Crusher Recipe(s) for <thermalfoundation:material:893> * 3
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Crusher Recipe(s) for <thermalfoundation:material:770> * 4
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Smelter Recipe(s) for <thermalfoundation:material:128>
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Smelter Recipe(s) for <thermalfoundation:material:129>
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Smelter Recipe(s) for <thermalfoundation:material:130>
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Smelter Recipe(s) for <thermalfoundation:material:131>
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Smelter Recipe(s) for <tconstruct:ingots>
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Smelter Recipe(s) for <thermalfoundation:material:160>
+[POSTINITIALIZATION][SERVER][INFO] Applying MrCrayfish's Furniture Mod changes...

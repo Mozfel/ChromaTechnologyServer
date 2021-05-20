@@ -1,0 +1,36 @@
+{
+	title: "Carbon Windmill",
+	x: -10.0d,
+	y: 0.0d,
+	text: [
+		"Careful you are going to need a little bit of space"
+	],
+	dependencies: [
+		"8d4c1830"
+	],
+	tasks: [{
+		uid: "1da4035a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ic2:rotor_carbon",
+			tag: {
+				advDmg: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "173aa2af",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "be5a943b",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

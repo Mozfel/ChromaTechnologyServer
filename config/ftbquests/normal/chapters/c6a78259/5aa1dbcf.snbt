@@ -1,0 +1,45 @@
+{
+	title: "Producing MJs with Fe (or RF)",
+	x: 0.0d,
+	y: 2.0d,
+	description: "Mjs with RF",
+	text: [
+		"This is a better way to generate MJs. Simply put the FE consumer to your rf conduits put the bridge next to it what ever the face and place the MJ producer to ... produce MJ :D"
+	],
+	dependencies: [
+		"f681a685",
+		"d80c45fe",
+		"31562264"
+	],
+	tasks: [{
+		uid: "a5dce749",
+		type: "item",
+		items: [{
+			item: "energyconverters:energy_consumer_fe"
+		}]
+	},
+	{
+		uid: "ab65e99b",
+		type: "item",
+		items: [{
+			item: "energyconverters:energy_bridge"
+		}]
+	},
+	{
+		uid: "9b52307f",
+		type: "item",
+		items: [{
+			item: "energyconverters:energy_producer_mj"
+		}]
+	}],
+	rewards: [{
+		uid: "f26cc7c9",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "b612a176",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

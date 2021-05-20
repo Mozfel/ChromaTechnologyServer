@@ -1,0 +1,26 @@
+{
+	title: "Cobalt",
+	x: 2.5d,
+	y: 6.5d,
+	description: "In real life this is carcinogenic",
+	dependencies: [
+		"ae9905ba"
+	],
+	tasks: [{
+		uid: "344a496d",
+		type: "item",
+		items: [{
+			item: "tconstruct:ore"
+		}]
+	}],
+	rewards: [{
+		uid: "9937740d",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "c72be101",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

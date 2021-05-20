@@ -1,0 +1,193 @@
+{
+	title: "JUICER",
+	icon: "minecraft:apple",
+	loot_size: 1,
+	rewards: [{
+		item: "harvestcraft:rootbeerfloatitem",
+		count: 6
+	},
+	{
+		item: "harvestcraft:jelliedeelitem",
+		count: 3
+	},
+	{
+		item: "harvestcraft:jambalayaitem",
+		count: 4
+	},
+	{
+		item: "harvestcraft:saucedlambkebabitem",
+		count: 9
+	},
+	{
+		item: "harvestcraft:manjuuitem",
+		count: 12
+	},
+	{
+		item: "harvestcraft:yorkshirepuddingitem",
+		count: 4
+	},
+	{
+		item: "harvestcraft:apricotglazedporkitem",
+		count: 6
+	},
+	{
+		item: "harvestcraft:tunafishsandwichitem",
+		count: 3
+	},
+	{
+		item: "harvestcraft:enchiladaitem",
+		count: 2
+	},
+	{
+		item: "harvestcraft:bolognaitem",
+		count: 10
+	},
+	{
+		item: "harvestcraft:imagawayakiitem",
+		count: 5
+	},
+	{
+		item: "harvestcraft:crabcookeditem",
+		count: 12
+	},
+	{
+		item: "harvestcraft:catfishrawitem",
+		count: 8
+	},
+	{
+		item: "harvestcraft:clamrawitem",
+		count: 6
+	},
+	{
+		item: "harvestcraft:baconwrappedchiliitem",
+		count: 5
+	},
+	{
+		item: "harvestcraft:ploughmanslunchitem",
+		count: 2
+	},
+	{
+		item: "harvestcraft:rivermudcakeitem",
+		count: 3
+	},
+	{
+		item: "harvestcraft:plumsmoothieitem",
+		count: 5
+	},
+	{
+		item: "harvestcraft:chocolaterollitem",
+		count: 6
+	},
+	{
+		item: "harvestcraft:coconutcreamitem",
+		count: 9
+	},
+	{
+		item: "harvestcraft:gravyitem",
+		count: 9
+	},
+	{
+		item: "harvestcraft:marzipanitem",
+		count: 6
+	},
+	{
+		item: "harvestcraft:tortillachipsitem",
+		count: 3
+	},
+	{
+		item: "harvestcraft:smoresitem",
+		count: 5
+	},
+	{
+		item: "harvestcraft:deviledeggitem",
+		count: 2
+	},
+	{
+		item: "harvestcraft:pearsmoothieitem",
+		count: 5
+	},
+	{
+		item: "harvestcraft:pistachioicecreamitem",
+		count: 4
+	},
+	{
+		item: "harvestcraft:turkishdelightitem",
+		count: 5
+	},
+	{
+		item: "harvestcraft:ramenitem",
+		count: 6
+	},
+	{
+		item: "harvestcraft:sourcreamandonionpotatochipsitem",
+		count: 7
+	},
+	{
+		item: "harvestcraft:bulgogiitem",
+		count: 4
+	},
+	{
+		item: "harvestcraft:greeneggsandhamitem",
+		count: 5
+	},
+	{
+		item: "harvestcraft:spumoniicecreamitem",
+		count: 8
+	},
+	{
+		item: "harvestcraft:pralinesitem",
+		count: 20
+	},
+	{
+		item: "harvestcraft:pecanpieitem",
+		count: 5
+	},
+	{
+		item: "harvestcraft:strawberrysodaitem",
+		count: 6
+	},
+	{
+		item: "harvestcraft:rootbeersodaitem",
+		count: 6
+	},
+	{
+		item: "harvestcraft:orangesodaitem",
+		count: 6
+	},
+	{
+		item: "harvestcraft:cherrysodaitem",
+		count: 6
+	},
+	{
+		item: "harvestcraft:colasodaitem",
+		count: 6
+	},
+	{
+		item: "harvestcraft:gingersodaitem",
+		count: 6
+	},
+	{
+		item: "harvestcraft:grapesodaitem",
+		count: 6
+	},
+	{
+		item: "harvestcraft:lemonlimesodaitem",
+		count: 6
+	},
+	{
+		item: "harvestcraft:zucchinibreaditem",
+		count: 4
+	},
+	{
+		item: "harvestcraft:calamaricookeditem",
+		count: 12
+	},
+	{
+		item: "harvestcraft:melonsmoothieitem",
+		count: 6
+	},
+	{
+		item: "harvestcraft:nutellaitem",
+		count: 32
+	}]
+}

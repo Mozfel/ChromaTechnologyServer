@@ -1,0 +1,31 @@
+{
+	title: "IC2 wrench",
+	x: 3.5d,
+	y: 0.5d,
+	description: "Leads to IC2",
+	dependencies: [
+		"e1187e8c"
+	],
+	tasks: [{
+		uid: "e689efee",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ic2:wrench"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "81fadc5a",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "0af56a12",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

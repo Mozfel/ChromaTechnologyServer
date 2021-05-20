@@ -1,0 +1,31 @@
+{
+	x: 0.0d,
+	y: 5.0d,
+	description: "I prefer 5 star restaurants",
+	text: [
+		"The Gourmaryllis generates Mana by consuming food items"
+	],
+	dependencies: [
+		"bcad9776"
+	],
+	tasks: [{
+		uid: "758db547",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "gourmaryllis"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "bcd5c1a4",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "bd7cf64c",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

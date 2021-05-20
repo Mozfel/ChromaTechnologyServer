@@ -1,0 +1,28 @@
+{
+	x: 1.5d,
+	y: 2.0d,
+	description: "An other engine",
+	text: [
+		"This engine uses Buildcraft Oil and any coolant. To start you can just use water. For other coolants read the book "
+	],
+	dependencies: [
+		"f681a685"
+	],
+	tasks: [{
+		uid: "10775774",
+		type: "item",
+		items: [{
+			item: "buildcraftcore:engine 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "1734b24e",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "3189e0dc",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

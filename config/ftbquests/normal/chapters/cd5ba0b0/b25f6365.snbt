@@ -1,0 +1,28 @@
+{
+	title: "Copper ",
+	x: -2.0d,
+	y: 4.0d,
+	shape: "gear",
+	description: "Copper not pepper !",
+	dependencies: [
+		"dbba2956",
+		"5836b5fd"
+	],
+	tasks: [{
+		uid: "2eefddeb",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:ore"
+		}]
+	}],
+	rewards: [{
+		uid: "275cc3d4",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "2ca2b201",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

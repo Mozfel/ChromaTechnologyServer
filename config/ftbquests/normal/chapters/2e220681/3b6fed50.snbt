@@ -1,0 +1,27 @@
+{
+	x: 9.0d,
+	y: -2.0d,
+	text: [
+		"Protect from explosions!"
+	],
+	dependencies: [
+		"87c89527"
+	],
+	tasks: [{
+		uid: "2f7cc355",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_shock_suppressor"
+		}]
+	}],
+	rewards: [{
+		uid: "55d1ebab",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "fc595771",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

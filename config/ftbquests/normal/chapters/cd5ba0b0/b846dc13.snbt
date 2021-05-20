@@ -1,0 +1,28 @@
+{
+	title: "Apatite",
+	x: 4.0d,
+	y: 3.0d,
+	shape: "gear",
+	description: "Don't worry , bee happy",
+	dependencies: [
+		"dbba2956",
+		"5836b5fd"
+	],
+	tasks: [{
+		uid: "90b45e5a",
+		type: "item",
+		items: [{
+			item: "forestry:apatite"
+		}]
+	}],
+	rewards: [{
+		uid: "49315449",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "2de2b733",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

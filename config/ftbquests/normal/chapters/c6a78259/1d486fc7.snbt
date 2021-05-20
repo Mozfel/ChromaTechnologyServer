@@ -1,0 +1,28 @@
+{
+	x: -3.0d,
+	y: 0.5d,
+	description: "Avoiding items ",
+	text: [
+		"You have items that you do not want to keep? This is your solution... No needs to have a trash can... this pipe is the trash.."
+	],
+	dependencies: [
+		"40f353e6"
+	],
+	tasks: [{
+		uid: "433e95b0",
+		type: "item",
+		items: [{
+			item: "buildcrafttransport:pipe_void_item"
+		}]
+	}],
+	rewards: [{
+		uid: "ff301de3",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "2d6e3f93",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

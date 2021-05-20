@@ -1,0 +1,31 @@
+{
+	title: "The last casings",
+	x: 18.5d,
+	y: 9.0d,
+	description: "Finally !?",
+	text: [
+		"Finally you can... WAIT? WHAT? ONLY 2280 heat???? How can I get 3000 heat to craft my Tungstensteel Ingot? ",
+		""
+	],
+	dependencies: [
+		"a9f853f1"
+	],
+	tasks: [{
+		uid: "d24fe922",
+		type: "item",
+		items: [{
+			item: "techreborn:machine_casing 1 2"
+		}],
+		count: 34L
+	}],
+	rewards: [{
+		uid: "4d3abe59",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "f2919476",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "Research paper (Uranus)",
+	x: 2.0d,
+	y: -1.0d,
+	dependencies: [
+		"b6ddc761"
+	],
+	tasks: [{
+		uid: "5d12200b",
+		type: "item",
+		items: [{
+			item: "planetprogression:research_paper_20"
+		}]
+	}],
+	rewards: [{
+		uid: "7c029efd",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "031be069",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

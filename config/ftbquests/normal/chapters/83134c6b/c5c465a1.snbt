@@ -1,0 +1,25 @@
+{
+	title: "Magma crucible augment",
+	x: 0.0d,
+	y: 4.5d,
+	dependencies: [
+		"01f3b586"
+	],
+	tasks: [{
+		uid: "0b8a12e4",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 352"
+		}]
+	}],
+	rewards: [{
+		uid: "519db76c",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "8cbb9de3",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

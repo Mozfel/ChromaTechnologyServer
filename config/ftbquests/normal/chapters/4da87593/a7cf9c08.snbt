@@ -1,0 +1,70 @@
+{
+	title: "Coal armor",
+	x: -2.0d,
+	y: -4.5d,
+	description: "I'm dark !",
+	text: [
+		"Be on the lookout for any furnace you may come across"
+	],
+	dependencies: [
+		"6684de1d"
+	],
+	tasks: [{
+		uid: "18da3d21",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "armorplus:coal_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d7ab4cef",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "armorplus:coal_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a84692ff",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "armorplus:coal_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "35c02ad3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "armorplus:coal_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0ca2b229",
+		type: "loot",
+		table: 10
+	},
+	{
+		uid: "5c3cd907",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

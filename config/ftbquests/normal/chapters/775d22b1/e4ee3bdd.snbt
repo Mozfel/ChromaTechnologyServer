@@ -1,0 +1,52 @@
+{
+	x: 0.5d,
+	y: 1.5d,
+	description: "Introduction",
+	text: [
+		"Treetap is needed to have rubber. To have rubber you have to find Rubber Trees in your world and you'll see a little brown stain on it. You'll have to right clic on that stain with the tree tap to extract the rubber and have sticky resin."
+	],
+	dependencies: [
+		"8edb517e"
+	],
+	tasks: [{
+		uid: "4d9330a9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ic2:treetap"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ac5cf9cf",
+		type: "item",
+		items: [{
+			item: "ic2:misc_resource 1 4"
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "a835a956",
+		type: "loot",
+		table: 8
+	},
+	{
+		uid: "658ea8f0",
+		type: "item",
+		item: "ic2:misc_resource 1 4",
+		count: 10
+	},
+	{
+		uid: "f9396333",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "2bb60892",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

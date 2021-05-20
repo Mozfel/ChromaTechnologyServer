@@ -1,0 +1,21 @@
+{
+	x: -2.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "72501e94",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:table_basic"
+		}]
+	}],
+	rewards: [{
+		uid: "eb8b8a54",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "aa9d1150",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

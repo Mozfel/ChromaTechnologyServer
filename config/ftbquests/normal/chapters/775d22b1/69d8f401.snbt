@@ -1,0 +1,25 @@
+{
+	x: -1.5d,
+	y: 7.5d,
+	description: "Extracting some random stuff",
+	dependencies: [
+		"c171e508"
+	],
+	tasks: [{
+		uid: "4e59400f",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 45"
+		}]
+	}],
+	rewards: [{
+		uid: "a05c1dfb",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "78394113",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

@@ -1,0 +1,7 @@
+{
+	title: "Astral Sorcery",
+	icon: "astralsorcery:itemcraftingcomponent",
+	always_invisible: false,
+	group: -96577355,
+	default_quest_shape: ""
+}

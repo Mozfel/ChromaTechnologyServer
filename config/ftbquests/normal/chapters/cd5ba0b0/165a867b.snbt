@@ -1,0 +1,27 @@
+{
+	title: "Resonating",
+	x: 6.0d,
+	y: 3.5d,
+	shape: "gear",
+	description: "Resonating not Resonant",
+	dependencies: [
+		"33642fe4"
+	],
+	tasks: [{
+		uid: "9a1c2902",
+		type: "item",
+		items: [{
+			item: "deepresonance:resonating_ore"
+		}]
+	}],
+	rewards: [{
+		uid: "bc529725",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "79736de8",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,39 @@
+{
+	x: 1.5d,
+	y: 4.5d,
+	text: [
+		"These blocks can save your life! Protect yourself from radiation!"
+	],
+	dependencies: [
+		"bf14d4bc"
+	],
+	tasks: [{
+		uid: "7de8b30c",
+		type: "item",
+		items: [{
+			item: "deepresonance:dense_obsidian"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "721e5e92",
+		type: "item",
+		item: "deepresonance:radiation_sensor"
+	},
+	{
+		uid: "53c837ae",
+		type: "item",
+		item: "deepresonance:dense_obsidian",
+		count: 4
+	},
+	{
+		uid: "d4661d82",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "657f27fd",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

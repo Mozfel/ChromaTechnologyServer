@@ -1,0 +1,18 @@
+{
+	title: "Conquer the world with buildcraft",
+	x: 7.5d,
+	y: 0.0d,
+	shape: "gear",
+	description: "Open buildcraft quests",
+	text: [
+		"This book can help you  if you are stuck or if the quests descriptions aren't good enough to help you out.",
+		""
+	],
+	tasks: [{
+		uid: "5a6bd690",
+		type: "item",
+		items: [{
+			item: "buildcraftlib:guide"
+		}]
+	}]
+}

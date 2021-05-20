@@ -1,0 +1,12 @@
+{
+	title: "Chapter 12 - Deep Mob Learning",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "deepmoblearning:data_model_dragon"
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

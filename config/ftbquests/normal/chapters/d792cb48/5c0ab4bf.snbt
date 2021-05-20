@@ -1,0 +1,36 @@
+{
+	title: "Press Molds",
+	x: -6.0d,
+	y: 2.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"3820db8a"
+	],
+	tasks: [{
+		uid: "d1d7906e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:blueprint",
+			tag: {
+				blueprint: "molds"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "1c23d3dd",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "b2569069",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

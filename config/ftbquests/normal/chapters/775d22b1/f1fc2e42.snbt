@@ -1,0 +1,33 @@
+{
+	title: "Wind'O Meter",
+	x: -5.0d,
+	y: -1.0d,
+	description: "Useful tool for your Wind Mills",
+	dependencies: [
+		"18cc31cb"
+	],
+	tasks: [{
+		uid: "c19d6eea",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ic2:wind_meter",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "da620952",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "22195092",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

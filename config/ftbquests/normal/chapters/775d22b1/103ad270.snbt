@@ -1,0 +1,31 @@
+{
+	x: 18.0d,
+	y: 5.5d,
+	description: "Nope that's not the same as Mekanism",
+	dependencies: [
+		"2f8f2612"
+	],
+	tasks: [{
+		uid: "64bd1dcf",
+		type: "item",
+		items: [{
+			id: "techreborn:dynamiccell",
+			tag: {
+				Fluid: {
+					FluidName: "fluiddeuterium",
+					Amount: 1000
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "a47b3fb0",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "97484d37",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

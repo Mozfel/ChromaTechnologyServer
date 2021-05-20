@@ -1,0 +1,7 @@
+{
+	title: "Chapter 21 - Solar Power",
+	icon: "solarflux:solar_panel_draconic",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

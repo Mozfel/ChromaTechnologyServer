@@ -1,0 +1,31 @@
+{
+	x: 4.0d,
+	y: 6.0d,
+	description: "Generate dungeon loots",
+	text: [
+		"With an extreme amout of Mana, spawn monsters stronger than usual. When killed these monsters will drop items normally found in dungeon"
+	],
+	dependencies: [
+		"9f79d2e8"
+	],
+	tasks: [{
+		uid: "35de603c",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "loonium"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "53fd6070",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "bc6b2739",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

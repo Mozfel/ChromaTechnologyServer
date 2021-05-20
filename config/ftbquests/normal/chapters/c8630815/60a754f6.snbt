@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	optional: true,
+	tasks: [{
+		uid: "daed69eb",
+		type: "item",
+		items: [{
+			item: "gendustry:sampler"
+		}]
+	}],
+	rewards: [{
+		uid: "9a94bd86",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

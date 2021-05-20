@@ -1,0 +1,33 @@
+{
+	x: 0.0d,
+	y: -12.0d,
+	shape: "gear",
+	text: [
+		"Select the quest then transfer the liquid to the task screen"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "ab228753",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "06e61368",
+		type: "item",
+		item: "ftbquests:screen"
+	},
+	{
+		uid: "ac507693",
+		type: "item",
+		item: "thermaldynamics:duct_16"
+	},
+	{
+		uid: "044bd9c4",
+		type: "item",
+		item: "thermaldynamics:servo"
+	},
+	{
+		uid: "44ec75bd",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

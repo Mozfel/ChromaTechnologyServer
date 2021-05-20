@@ -1,0 +1,65 @@
+{
+	title: "Ultimate Resonanting Crystal",
+	x: -1.5d,
+	y: -4.5d,
+	shape: "octagon",
+	description: "Make the best Resonanting Crystal",
+	text: [
+		"Resonanting Crystal is one of the best energy source.",
+		"Make a Resonanting crystal with 100% of purity, 100% of strength and 100% of efficiency !"
+	],
+	dependencies: [
+		"a003b619"
+	],
+	tasks: [{
+		uid: "d1b13f0f",
+		type: "item",
+		items: [{
+			id: "deepresonance:resonating_crystal",
+			tag: {
+				efficiency: 100.0f,
+				strength: 100.0f,
+				purity: 100.0f,
+				power: 100.0f,
+				version: 2b
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "24034a86",
+		type: "item",
+		item: {
+			id: "deepresonance:resonating_crystal",
+			tag: {
+				efficiency: 100.0f,
+				strength: 100.0f,
+				purity: 100.0f,
+				power: 100.0f,
+				version: 2b
+			}
+		}
+	},
+	{
+		uid: "aebc35d7",
+		type: "random",
+		title: "Rare lootbox",
+		table: 9
+	},
+	{
+		uid: "0019583b",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "74e15128",
+		type: "item",
+		item: "contenttweaker:ccoins",
+		count: 20,
+		random_bonus: 10
+	},
+	{
+		uid: "63067a40",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "Pulverizer augment",
+	x: -5.5d,
+	y: -3.0d,
+	dependencies: [
+		"caaad9ea"
+	],
+	tasks: [{
+		uid: "8c846135",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 273"
+		}]
+	}],
+	rewards: [{
+		uid: "1a77609e",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "299ad597",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

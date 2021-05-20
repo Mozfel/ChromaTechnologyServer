@@ -1,0 +1,27 @@
+{
+	title: "LV Wires ",
+	icon: "immersiveengineering:wirecoil",
+	x: -1.5d,
+	y: 3.0d,
+	description: "First wires ",
+	dependencies: [
+		"f2d05e0c"
+	],
+	tasks: [{
+		uid: "f4fcc8fb",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wirecoil"
+		}]
+	}],
+	rewards: [{
+		uid: "337bfa23",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "0af52d92",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

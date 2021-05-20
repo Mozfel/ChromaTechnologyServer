@@ -1,0 +1,27 @@
+{
+	title: "Coke Oven ",
+	x: -1.5d,
+	y: 1.5d,
+	description: "It's 100% legal",
+	dependencies: [
+		"f2d05e0c"
+	],
+	tasks: [{
+		uid: "c7fd6fe0",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration"
+		}],
+		count: 27L
+	}],
+	rewards: [{
+		uid: "b17fca06",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "cca2c79a",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

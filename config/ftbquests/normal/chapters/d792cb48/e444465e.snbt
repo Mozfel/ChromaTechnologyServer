@@ -1,0 +1,26 @@
+{
+	title: "Alloy Kiln",
+	x: 1.5d,
+	y: 1.5d,
+	description: "Use that for your early alloy needs",
+	dependencies: [
+		"f2d05e0c"
+	],
+	tasks: [{
+		uid: "61e55496",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 10"
+		}]
+	}],
+	rewards: [{
+		uid: "d1c23e77",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "852d21b3",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	title: "Better Casing...",
+	x: 16.5d,
+	y: 9.0d,
+	description: "Not yet !",
+	text: [
+		"This isn't good enough to craft Tungstensteel but you can craft other things... Just see by yourself",
+		"Protip : You can craft chrome :P"
+	],
+	dependencies: [
+		"73b324ec"
+	],
+	tasks: [{
+		uid: "0b65145e",
+		type: "item",
+		items: [{
+			item: "techreborn:machine_casing 1 1"
+		}],
+		count: 34L
+	}],
+	rewards: [{
+		uid: "7265583c",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "33a19847",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

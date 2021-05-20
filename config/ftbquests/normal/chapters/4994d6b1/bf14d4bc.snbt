@@ -1,0 +1,34 @@
+{
+	x: 0.5d,
+	y: 4.5d,
+	text: [
+		"Do not throw away the used filters! They will be precious to you!"
+	],
+	dependencies: [
+		"bad14704"
+	],
+	tasks: [{
+		uid: "2a56ff2e",
+		type: "item",
+		items: [{
+			item: "deepresonance:spent_filter"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "079e9c8a",
+		type: "item",
+		item: "deepresonance:filter",
+		count: 16
+	},
+	{
+		uid: "403ec9f4",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "62a56aaa",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

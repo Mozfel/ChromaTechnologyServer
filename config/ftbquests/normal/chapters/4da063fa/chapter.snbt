@@ -1,0 +1,12 @@
+{
+	title: "Chapter 19 - Galacticraft",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "galacticraftcore:rocket_t1"
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

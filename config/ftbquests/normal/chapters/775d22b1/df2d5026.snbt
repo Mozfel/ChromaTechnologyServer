@@ -1,0 +1,28 @@
+{
+	x: -3.5d,
+	y: 8.5d,
+	description: "A faster way to compress. ",
+	text: [
+		"Don't forget to chill and not compress all the time, you have a wonderful world outside !"
+	],
+	dependencies: [
+		"55f9dcd5"
+	],
+	tasks: [{
+		uid: "d1b4adf1",
+		type: "item",
+		items: [{
+			item: "advanced_machines:machines 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "e978a5a4",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "c803f00d",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

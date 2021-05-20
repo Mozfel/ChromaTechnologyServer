@@ -1,0 +1,32 @@
+{
+	title: "Upgrade your engine...",
+	x: -1.5d,
+	y: 2.0d,
+	description: "This is it ! :D",
+	text: [
+		"Your first MJs! ",
+		"So the goal is to make MJ ... but why? AHAH ! You'll see ! ",
+		"How to produce that kind of energy? Well that's pretty simple you just have to put coal or any other thing that can burn ... yes that's simple ",
+		"Oh and don't forget to put a lever to activate it... "
+	],
+	dependencies: [
+		"f681a685"
+	],
+	tasks: [{
+		uid: "095605a7",
+		type: "item",
+		items: [{
+			item: "buildcraftcore:engine 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "e5d0bfce",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "548efd85",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

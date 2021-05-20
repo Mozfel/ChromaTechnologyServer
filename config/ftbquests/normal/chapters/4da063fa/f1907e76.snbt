@@ -1,0 +1,25 @@
+{
+	title: "Research paper (Eris)",
+	x: -1.0d,
+	y: -1.0d,
+	dependencies: [
+		"b6ddc761"
+	],
+	tasks: [{
+		uid: "6373ef92",
+		type: "item",
+		items: [{
+			item: "planetprogression:research_paper_24"
+		}]
+	}],
+	rewards: [{
+		uid: "2b243dee",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "5183846d",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

@@ -1,0 +1,38 @@
+{
+	title: "Cooling me please !",
+	x: 2.0d,
+	y: -4.0d,
+	text: [
+		"Gelid Cryotheum is the best coolant for Extreme Reactors"
+	],
+	dependencies: [
+		"a814297e"
+	],
+	tasks: [{
+		uid: "2be95a88",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "cryotheum",
+				Amount: 1000
+			}
+		}],
+		count: 12L,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1b06aa43",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	},
+	{
+		uid: "d5e025ab",
+		type: "random",
+		table: 10
+	}]
+}

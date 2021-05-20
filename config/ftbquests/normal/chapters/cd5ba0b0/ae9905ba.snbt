@@ -1,0 +1,27 @@
+{
+	title: "Going to Hell",
+	x: 3.5d,
+	y: 6.0d,
+	description: "You have been a bad boy !",
+	dependencies: [
+		"758ad9aa"
+	],
+	tasks: [{
+		uid: "732339b2",
+		type: "item",
+		items: [{
+			item: "minecraft:obsidian"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "16831375",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "0ef0dc74",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,33 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	description: "Engineer's dream ",
+	text: [
+		"Yes again... "
+	],
+	dependencies: [
+		"a5e430da"
+	],
+	tasks: [{
+		uid: "6e10aa98",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:tool",
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ba775eab",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "e9fd7115",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,7 @@
+{
+	title: "Chapter 13 - RFTools",
+	icon: "rftools:dimensional_shard",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

@@ -1,0 +1,41 @@
+{
+	x: -2.5d,
+	y: -3.5d,
+	text: [
+		"Throw an Ender Pearl at an Endergenic Generator at just the right moment and energy will be produced."
+	],
+	dependencies: [
+		"daa619a9"
+	],
+	tasks: [{
+		uid: "4eb52219",
+		type: "item",
+		items: [{
+			item: "rftools:endergenic"
+		}]
+	},
+	{
+		uid: "8ae06bc1",
+		type: "item",
+		items: [{
+			item: "rftools:pearl_injector"
+		}]
+	},
+	{
+		uid: "3ce81020",
+		type: "item",
+		items: [{
+			item: "rftools:ender_monitor"
+		}]
+	}],
+	rewards: [{
+		uid: "8b721d7d",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "19619808",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

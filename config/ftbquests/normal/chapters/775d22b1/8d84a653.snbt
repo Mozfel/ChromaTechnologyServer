@@ -1,0 +1,25 @@
+{
+	x: -0.5d,
+	y: 8.5d,
+	description: "The Macerator 2.0",
+	dependencies: [
+		"564b3546"
+	],
+	tasks: [{
+		uid: "915f1bf1",
+		type: "item",
+		items: [{
+			item: "advanced_machines:machines"
+		}]
+	}],
+	rewards: [{
+		uid: "9dc98b68",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "3c443f1c",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

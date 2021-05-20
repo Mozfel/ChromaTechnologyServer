@@ -1,0 +1,7 @@
+{
+	title: "Mekanism",
+	icon: "mekanism:enrichedalloy",
+	always_invisible: false,
+	group: 1873846850,
+	default_quest_shape: ""
+}

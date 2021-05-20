@@ -1,0 +1,64 @@
+{
+	title: "Tier 1 - Mystical",
+	loot_size: 1,
+	rewards: [{
+		item: "minecraft:potato",
+		count: 16
+	},
+	{
+		item: "minecraft:rotten_flesh",
+		count: 16
+	},
+	{
+		item: "minecraft:ice",
+		count: 32
+	},
+	{
+		item: "minecraft:log",
+		count: 32
+	},
+	{
+		item: "minecraft:dye 1 3",
+		count: 16
+	},
+	{
+		item: "minecraft:beetroot",
+		count: 16
+	},
+	{
+		item: "minecraft:apple",
+		count: 16
+	},
+	{
+		item: "minecraft:dirt",
+		count: 32
+	},
+	{
+		item: "minecraft:stone",
+		count: 32
+	},
+	{
+		item: "minecraft:cactus",
+		count: 16
+	},
+	{
+		item: "minecraft:reeds",
+		count: 16
+	},
+	{
+		item: "minecraft:pumpkin",
+		count: 8
+	},
+	{
+		item: "minecraft:melon_block",
+		count: 8
+	},
+	{
+		item: "minecraft:wheat",
+		count: 16
+	},
+	{
+		item: "minecraft:carrot",
+		count: 16
+	}]
+}

@@ -1,0 +1,70 @@
+{
+	title: "Knight slime armor",
+	x: 2.0d,
+	y: 3.5d,
+	description: "Boing Boing",
+	text: [
+		"Better than a kangaroo"
+	],
+	dependencies: [
+		"45e5434c"
+	],
+	tasks: [{
+		uid: "f95fc681",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "armorplus:knight_slime_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "96759865",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "armorplus:knight_slime_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6c74bd78",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "armorplus:knight_slime_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b04b3f38",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "armorplus:knight_slime_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ad5907a0",
+		type: "loot",
+		table: 10
+	},
+	{
+		uid: "c82ff79d",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

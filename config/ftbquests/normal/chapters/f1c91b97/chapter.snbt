@@ -1,0 +1,7 @@
+{
+	title: "Extreme Reactors",
+	icon: "bigreactors:reactorfuelrod",
+	always_invisible: false,
+	group: 1873846850,
+	default_quest_shape: ""
+}

@@ -1,0 +1,29 @@
+{
+	x: 3.0d,
+	y: 5.0d,
+	description: "Mining at is best",
+	text: [
+		"The good ol' quarry is back but ... it needs MJs :D You can use landmarks (the blue ones) to create your own mining zone...Like the Mining Well you have to put a chest on the top or your mined items will be ejected like a beautiful firework for the",
+		"4th of July... or whatever case... "
+	],
+	dependencies: [
+		"3b6b4948"
+	],
+	tasks: [{
+		uid: "f37bbb60",
+		type: "item",
+		items: [{
+			item: "buildcraftbuilders:quarry"
+		}]
+	}],
+	rewards: [{
+		uid: "81872471",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "d59a51e0",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

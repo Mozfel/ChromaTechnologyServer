@@ -1,0 +1,28 @@
+{
+	title: "Lava Crystals ",
+	x: 3.5d,
+	y: 5.0d,
+	shape: "gear",
+	description: "Careful those might burn your hands",
+	dependencies: [
+		"ae9905ba"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "f1c89cf8",
+		type: "item",
+		items: [{
+			item: "armorplus:lava_crystal"
+		}]
+	}],
+	rewards: [{
+		uid: "8043423b",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "52e05017",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

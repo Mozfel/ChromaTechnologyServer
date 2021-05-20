@@ -1,0 +1,30 @@
+{
+	x: -2.5d,
+	y: -1.0d,
+	description: "To craft wires ",
+	dependencies: [
+		"8edb517e"
+	],
+	tasks: [{
+		uid: "9182216f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ic2:cutter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b1a90546",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "b2e1fbd0",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

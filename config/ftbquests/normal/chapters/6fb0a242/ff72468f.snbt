@@ -1,0 +1,17 @@
+{
+	title: "Industrial Foregoing",
+	x: 4.5d,
+	y: 0.0d,
+	shape: "gear",
+	description: "Start Industrial Foregoing Now !",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "d9684566",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:book_manual"
+		}]
+	}]
+}

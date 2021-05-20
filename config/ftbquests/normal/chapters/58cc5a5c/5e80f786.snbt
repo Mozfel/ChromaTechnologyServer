@@ -1,0 +1,36 @@
+{
+	title: "ME Controllers ",
+	x: 8.0d,
+	y: 1.0d,
+	shape: "gear",
+	text: [
+		"You need 68 ME Controller to make the biggest Cube !",
+		"All ME Controller blocks on a ME Network must be connected; else the blocks will turn red.",
+		"The size of the ME Controller must be within 7x7x7; else it will turn red.",
+		"A ME Controller can have 2 adjacent blocks in at most 1 axis; if a block violates this rule, it will disable and turn white."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"0e1a7c63",
+		"e99597a8"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "5e017e85",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:controller"
+		}],
+		count: 68L
+	}],
+	rewards: [{
+		uid: "c60e4005",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "8041d597",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	}]
+}

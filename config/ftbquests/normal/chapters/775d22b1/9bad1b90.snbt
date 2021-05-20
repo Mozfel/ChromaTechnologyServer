@@ -1,0 +1,26 @@
+{
+	title: "Coolant maker",
+	x: 4.5d,
+	y: 3.5d,
+	description: "Be cool ",
+	dependencies: [
+		"8edb517e"
+	],
+	tasks: [{
+		uid: "3f5d1a3c",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 33"
+		}]
+	}],
+	rewards: [{
+		uid: "77171e0e",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "16466eee",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

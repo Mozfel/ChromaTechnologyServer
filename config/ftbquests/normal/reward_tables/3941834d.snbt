@@ -1,0 +1,67 @@
+{
+	title: "Rare lootbox",
+	loot_size: 1,
+	rewards: [{
+		item: "minecraft:diamond_block",
+		count: 16
+	},
+	{
+		item: "openblocks:golden_egg",
+		count: 32
+	},
+	{
+		item: "minecraft:gold_block",
+		count: 32
+	},
+	{
+		item: "minecraft:nether_star",
+		random_bonus: 20
+	},
+	{
+		item: {
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "ma.prudentium"
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:glass_sword"
+		}
+	},
+	{
+		xp_levels: 50,
+		type: "xp_levels"
+	},
+	{
+		item: "enderutilities:enderpart",
+		count: 16
+	},
+	{
+		item: "enderutilities:enderpart 1 1",
+		count: 16
+	},
+	{
+		item: "enderutilities:enderpart 1 2",
+		count: 16
+	},
+	{
+		item: "contenttweaker:ccoins",
+		count: 32
+	}],
+	loot_crate: {
+		string_id: "rare_lootbox",
+		item_name: "Rare lootbox",
+		color: 15728895,
+		glow: true,
+		drops: {
+			boss: 0,
+			passive: 0,
+			monster: 0
+		}
+	}
+}

@@ -1,0 +1,32 @@
+{
+	title: "I'm not hungry anymore",
+	x: -1.0d,
+	y: 5.5d,
+	dependencies: [
+		"5d0d3d53"
+	],
+	tasks: [{
+		uid: "1aae16e2",
+		type: "item",
+		items: [{
+			item: "rftools:saturationplus_module"
+		}]
+	},
+	{
+		uid: "effc958e",
+		type: "item",
+		items: [{
+			item: "rftools:saturation_module"
+		}]
+	}],
+	rewards: [{
+		uid: "7548579e",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "5b8e0c4f",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

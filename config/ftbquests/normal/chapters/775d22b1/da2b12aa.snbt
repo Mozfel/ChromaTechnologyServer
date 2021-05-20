@@ -1,0 +1,28 @@
+{
+	x: -4.5d,
+	y: 7.5d,
+	description: "Washing Ores ? WTF !",
+	text: [
+		"Once you have crushed your ores in the crusher you have to wash them in this machine to double them "
+	],
+	dependencies: [
+		"c171e508"
+	],
+	tasks: [{
+		uid: "c12afb1c",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 56"
+		}]
+	}],
+	rewards: [{
+		uid: "a3fb6ebf",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "c0017ed6",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

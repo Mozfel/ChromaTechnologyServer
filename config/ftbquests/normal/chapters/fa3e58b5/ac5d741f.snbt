@@ -1,0 +1,22 @@
+{
+	title: "Astral Sorcery",
+	x: -1.5d,
+	y: 0.0d,
+	shape: "gear",
+	description: "Make magic with stars !",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "8a8f010f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemjournal"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

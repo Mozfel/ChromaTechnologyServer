@@ -1,0 +1,43 @@
+{
+	title: "Upgrade your metal formers",
+	x: -5.5d,
+	y: 8.5d,
+	description: "Metal formers 2.0",
+	text: [
+		"The Metal Former can upgrade in 3 different versions. It's up to you to upgrade them but you will need a more efficient machine than the first Generator ;) "
+	],
+	dependencies: [
+		"7cb5bb0e"
+	],
+	tasks: [{
+		uid: "8828a1dd",
+		type: "item",
+		items: [{
+			item: "advanced_machines:machines 1 4"
+		}]
+	},
+	{
+		uid: "5b113556",
+		type: "item",
+		items: [{
+			item: "advanced_machines:machines 1 5"
+		}]
+	},
+	{
+		uid: "e15b744e",
+		type: "item",
+		items: [{
+			item: "advanced_machines:machines 1 6"
+		}]
+	}],
+	rewards: [{
+		uid: "e88b02fe",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "8093d004",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

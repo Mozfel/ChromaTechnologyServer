@@ -1,0 +1,19 @@
+{
+	x: -7.0d,
+	y: 2.0d,
+	shape: "rsquare",
+	dependencies: [
+		"7f08b25c"
+	],
+	tasks: [{
+		uid: "76d5e940",
+		type: "checkmark",
+		title: "Task screen",
+		icon: "ftbquests:screen"
+	}],
+	rewards: [{
+		uid: "a2669a8b",
+		type: "item",
+		item: "ftbquests:screen"
+	}]
+}

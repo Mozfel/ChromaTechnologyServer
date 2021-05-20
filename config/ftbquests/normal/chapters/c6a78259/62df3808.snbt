@@ -1,0 +1,25 @@
+{
+	x: 3.5d,
+	y: -0.5d,
+	description: "Storing fluids easily",
+	dependencies: [
+		"f927dcac"
+	],
+	tasks: [{
+		uid: "ffbae780",
+		type: "item",
+		items: [{
+			item: "buildcraftfactory:tank"
+		}]
+	}],
+	rewards: [{
+		uid: "98fdb60c",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "5faeeb31",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

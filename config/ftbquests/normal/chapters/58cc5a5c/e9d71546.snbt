@@ -1,0 +1,31 @@
+{
+	x: 3.5d,
+	y: 3.5d,
+	text: [
+		"Throw the seeds on the ground to count the quest"
+	],
+	dependencies: [
+		"e3e5cb35"
+	],
+	tasks: [{
+		uid: "3477a06f",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:crystal_seed",
+			tag: {
+				progress: 1200
+			},
+			Damage: 1200s
+		}]
+	}],
+	rewards: [{
+		uid: "2cbcecbf",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "52ad3526",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

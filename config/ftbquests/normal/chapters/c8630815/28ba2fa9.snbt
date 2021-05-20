@@ -1,0 +1,18 @@
+{
+	x: 8.0d,
+	y: 3.0d,
+	optional: true,
+	tasks: [{
+		uid: "1d4a038b",
+		type: "item",
+		items: [{
+			item: "magicbees:jelly_babies"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "b4acf524",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

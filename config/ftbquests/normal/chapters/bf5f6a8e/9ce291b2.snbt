@@ -1,0 +1,31 @@
+{
+	x: 4.0d,
+	y: 7.0d,
+	description: "Magnet is so useless !",
+	text: [
+		"The Solegnolia will prevent the Ring of Magnetization from pulling items inside its range"
+	],
+	dependencies: [
+		"9f79d2e8"
+	],
+	tasks: [{
+		uid: "c865041a",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "solegnolia"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "bf0b67bd",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "6bee4778",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

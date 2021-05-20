@@ -1,0 +1,39 @@
+{
+	title: "Wooden Windmill",
+	x: -6.0d,
+	y: 0.0d,
+	description: "EU with wood. Really?",
+	text: [
+		"With the WindMeter you can measure the power of the wind. You'll have to remember that below y=64 there is never enough wind (No EUs at all !).",
+		"To start a decent amout of EU the wind is strongest at y = 160 but don't go any further because at 255 there is only a little bit of wind. ",
+		"Weather is a game changer and give boost  : Rainy = 25% boost / Stormy = 50% boost."
+	],
+	dependencies: [
+		"a2463ffd"
+	],
+	tasks: [{
+		uid: "4b0bbd0b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ic2:rotor_wood",
+			tag: {
+				advDmg: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8868d0e8",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "33150376",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

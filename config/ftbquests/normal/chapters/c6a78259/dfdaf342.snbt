@@ -1,0 +1,37 @@
+{
+	title: "Extract MJ",
+	x: 0.0d,
+	y: -0.5d,
+	description: "Read the title might be a good idea",
+	text: [
+		"So if you crafted the stirling generator you will have no idea how to transport the power",
+		"The system is exactly the same that transport pipe :D"
+	],
+	dependencies: [
+		"f681a685"
+	],
+	tasks: [{
+		uid: "94eedc0d",
+		type: "item",
+		items: [{
+			item: "buildcrafttransport:pipe_wood_power"
+		}]
+	},
+	{
+		uid: "76f5954a",
+		type: "item",
+		items: [{
+			item: "buildcrafttransport:pipe_cobble_power"
+		}]
+	}],
+	rewards: [{
+		uid: "9e910ec9",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "7e84eac1",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	title: "The Most Useful Ingot",
+	x: 14.5d,
+	y: 5.0d,
+	description: "Better Iron",
+	text: [
+		"So , let's start your journey to the introduction of Tech Reborn ! ",
+		"This is obviously (Did you read the title?) the most useful ingot in Tech Reborn. ",
+		"It's used in every recipes. "
+	],
+	dependencies: [
+		"045b5af2"
+	],
+	tasks: [{
+		uid: "1870828a",
+		type: "item",
+		items: [{
+			item: "techreborn:ingot 1 19"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "22c645e2",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "85027912",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

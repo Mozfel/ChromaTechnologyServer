@@ -1,0 +1,38 @@
+{
+	x: 18.75d,
+	y: 6.75d,
+	shape: "heart",
+	text: [
+		"I'm not a simple Walrus !"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"6b7954cb",
+		"76f55273",
+		"ec45bd5a"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "1753a661",
+		type: "item",
+		items: [{
+			item: "extracells:walrus"
+		}]
+	}],
+	rewards: [{
+		uid: "b3597158",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "6e1ba565",
+		type: "item",
+		item: "extracells:walrus",
+		count: 64
+	},
+	{
+		uid: "893b06d1",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

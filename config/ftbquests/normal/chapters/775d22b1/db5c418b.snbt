@@ -1,0 +1,33 @@
+{
+	title: "Insulated Cables",
+	x: -2.5d,
+	y: -3.5d,
+	description: "Those doesn't hurt :D ",
+	dependencies: [
+		"ad00a352"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "523418d8",
+		type: "item",
+		items: [{
+			id: "ic2:cable",
+			tag: {
+				type: 4b,
+				insulation: 1b
+			},
+			Damage: 4s
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "ef75971e",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "f365f267",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

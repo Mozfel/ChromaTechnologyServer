@@ -1,0 +1,28 @@
+{
+	x: 1.5d,
+	y: 7.0d,
+	description: "Needed for crafting... ",
+	text: [
+		"Maybe you forgot that those are needed for craft ... But don't check them or you'll go crazy, trust me... I made those crafts :smiling_imp:"
+	],
+	dependencies: [
+		"98df9994"
+	],
+	tasks: [{
+		uid: "2ce3cd76",
+		type: "item",
+		items: [{
+			item: "buildcraftsilicon:redstone_chipset 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "20180d41",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "300c12e6",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

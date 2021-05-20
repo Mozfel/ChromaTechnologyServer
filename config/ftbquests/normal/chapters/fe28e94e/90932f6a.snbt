@@ -1,0 +1,25 @@
+{
+	title: "Compartment tier 1",
+	x: -1.5d,
+	y: 1.0d,
+	dependencies: [
+		"85b9e355"
+	],
+	tasks: [{
+		uid: "c7f53194",
+		type: "item",
+		items: [{
+			item: "binniecore:storage"
+		}]
+	}],
+	rewards: [{
+		uid: "fa421e82",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "bd927dc7",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

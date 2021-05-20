@@ -1,0 +1,28 @@
+{
+	x: 6.5d,
+	y: 10.5d,
+	text: [
+		"To configure a P2P Tunnel you must first attune the tunnel to carry what you want it to, then you need to configure the outputs to their input. You configure the connections by using the Memory Card; First Shift+Right Click the input to save it on your memory card, then simply right click the different outputs to store the input onto the outputs. this also sets the type of the output to match the type of the input."
+	],
+	dependencies: [
+		"e99597a8",
+		"a61088e2"
+	],
+	tasks: [{
+		uid: "907db31b",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 460"
+		}]
+	}],
+	rewards: [{
+		uid: "0ff4150b",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "b1f99fbc",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

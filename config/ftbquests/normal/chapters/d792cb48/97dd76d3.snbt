@@ -1,0 +1,26 @@
+{
+	title: "Constantan Ingot",
+	x: 1.5d,
+	y: 3.0d,
+	description: "Thermal needed a new ingot",
+	dependencies: [
+		"e444465e"
+	],
+	tasks: [{
+		uid: "a01613c4",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 164"
+		}]
+	}],
+	rewards: [{
+		uid: "23e29b6e",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "b215f159",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

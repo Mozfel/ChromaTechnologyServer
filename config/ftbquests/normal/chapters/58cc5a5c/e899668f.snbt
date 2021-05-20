@@ -1,0 +1,24 @@
+{
+	x: 21.5d,
+	y: 2.5d,
+	dependencies: [
+		"54982613"
+	],
+	tasks: [{
+		uid: "6dbb24f8",
+		type: "item",
+		items: [{
+			item: "thaumicenergistics:essentia_component_4k"
+		}]
+	}],
+	rewards: [{
+		uid: "728b0cd9",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "46afb17e",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

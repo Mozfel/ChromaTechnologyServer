@@ -1,0 +1,25 @@
+{
+	title: "i see in the dark",
+	x: 1.0d,
+	y: 5.5d,
+	dependencies: [
+		"5d0d3d53"
+	],
+	tasks: [{
+		uid: "ff319685",
+		type: "item",
+		items: [{
+			item: "rftools:nightvision_module"
+		}]
+	}],
+	rewards: [{
+		uid: "a34a1104",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "e930efa2",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

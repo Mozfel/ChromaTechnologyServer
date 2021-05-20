@@ -1,0 +1,7 @@
+{
+	title: "Industrial foregoing",
+	icon: "industrialforegoing:book_manual",
+	always_invisible: false,
+	group: 1873846850,
+	default_quest_shape: ""
+}

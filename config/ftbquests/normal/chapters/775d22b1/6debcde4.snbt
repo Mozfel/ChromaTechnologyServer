@@ -1,0 +1,50 @@
+{
+	title: "Ores from the End",
+	x: 17.5d,
+	y: 3.5d,
+	description: "Even better ores !",
+	text: [
+		"Protip : You don't need to battle the dragon to have them but you should considering that he might kill you during your mining"
+	],
+	dependencies: [
+		"ccfdcc3d"
+	],
+	tasks: [{
+		uid: "346a900d",
+		type: "item",
+		items: [{
+			item: "techreborn:ore 1 8"
+		}]
+	},
+	{
+		uid: "37169a5c",
+		type: "item",
+		items: [{
+			item: "techreborn:ore 1 9"
+		}]
+	},
+	{
+		uid: "6f0fc43c",
+		type: "item",
+		items: [{
+			item: "techreborn:ore 1 10"
+		}]
+	},
+	{
+		uid: "1304711b",
+		type: "item",
+		items: [{
+			item: "techreborn:ore 1 11"
+		}]
+	}],
+	rewards: [{
+		uid: "3fa49a58",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "3d0d6542",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

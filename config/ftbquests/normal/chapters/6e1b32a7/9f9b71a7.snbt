@@ -1,0 +1,14 @@
+{
+	x: -5.0d,
+	y: -0.5d,
+	dependencies: [
+		"227fc54b"
+	],
+	tasks: [{
+		uid: "2014721c",
+		type: "item",
+		items: [{
+			item: "thaumcraft:curio 1 1"
+		}]
+	}]
+}

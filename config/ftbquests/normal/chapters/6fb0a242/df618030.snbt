@@ -1,0 +1,17 @@
+{
+	title: "Mekanism",
+	x: 6.0d,
+	y: 0.0d,
+	shape: "gear",
+	description: "You like Mekanism ? Ok Start Now !",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "dd686661",
+		type: "item",
+		items: [{
+			item: "mekanism:ingot 1 1"
+		}]
+	}]
+}

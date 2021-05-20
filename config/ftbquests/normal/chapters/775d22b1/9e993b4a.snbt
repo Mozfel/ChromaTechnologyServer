@@ -1,0 +1,33 @@
+{
+	title: "Basic Ores ",
+	x: 15.5d,
+	y: 3.5d,
+	description: "Your first TechReborn ores !",
+	dependencies: [
+		"045b5af2"
+	],
+	tasks: [{
+		uid: "1bc82004",
+		type: "item",
+		items: [{
+			item: "techreborn:ore"
+		}]
+	},
+	{
+		uid: "547199ed",
+		type: "item",
+		items: [{
+			item: "techreborn:ore 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "3c43059a",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "5ec62779",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

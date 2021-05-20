@@ -1,0 +1,28 @@
+{
+	x: -6.0d,
+	y: -1.0d,
+	description: "The Power Of The Wind",
+	text: [
+		""
+	],
+	dependencies: [
+		"f1fc2e42"
+	],
+	tasks: [{
+		uid: "222f635b",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 21"
+		}]
+	}],
+	rewards: [{
+		uid: "5ee1aa6b",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "dbdccbaa",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

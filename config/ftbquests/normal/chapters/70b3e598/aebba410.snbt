@@ -1,0 +1,26 @@
+{
+	title: "Redstone conduit",
+	x: 11.5d,
+	y: 0.5d,
+	dependencies: [
+		"e612c92a"
+	],
+	tasks: [{
+		uid: "42f40a21",
+		type: "item",
+		items: [{
+			item: "enderio:item_redstone_conduit"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "ac2d4dcd",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "762b87ac",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

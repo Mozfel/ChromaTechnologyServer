@@ -1,0 +1,34 @@
+{
+	title: "Osmium ",
+	x: -4.0d,
+	y: 3.0d,
+	shape: "pentagon",
+	description: "That may help for your technological needs",
+	dependencies: [
+		"dbba2956",
+		"5836b5fd"
+	],
+	tasks: [{
+		uid: "83cf832c",
+		type: "item",
+		items: [{
+			item: "mekanism:oreblock"
+		}]
+	}],
+	rewards: [{
+		uid: "f6397724",
+		type: "item",
+		item: "mekanism:ingot 1 1",
+		count: 5
+	},
+	{
+		uid: "c67b0140",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "a50e605e",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

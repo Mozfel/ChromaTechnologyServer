@@ -1,0 +1,28 @@
+{
+	x: -0.5d,
+	y: 3.0d,
+	description: "Rubber as it's finest",
+	text: [
+		"This is useful for many craft in Industrial Craft so I'll recommend you to have a few stack ready to craft all the machines that you will have to craft trough your adventure. Opens the tech reborn quests"
+	],
+	dependencies: [
+		"e4ee3bdd"
+	],
+	tasks: [{
+		uid: "7aa99c3b",
+		type: "item",
+		items: [{
+			item: "ic2:crafting"
+		}]
+	}],
+	rewards: [{
+		uid: "53b2b150",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "c928a5f2",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

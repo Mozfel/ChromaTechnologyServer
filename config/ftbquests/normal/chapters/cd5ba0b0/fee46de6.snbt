@@ -1,0 +1,37 @@
+{
+	title: "Get cobblestoned",
+	icon: "minecraft:cobblestone",
+	x: 0.0d,
+	y: 1.0d,
+	description: "Crafting a wooden pickaxe is a good idea...",
+	dependencies: [
+		"fe4357c5"
+	],
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "13ef7d87",
+		type: "item",
+		title: "Don't mine it with your hands !",
+		items: [{
+			item: "minecraft:cobblestone"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "373754cb",
+		type: "item",
+		title: "More cobblestones ? ",
+		item: "minecraft:cobblestone",
+		count: 8
+	},
+	{
+		uid: "165ef492",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "cf823f7d",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

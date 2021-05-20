@@ -1,0 +1,21 @@
+{
+	x: -3.0d,
+	y: 0.0d,
+	shape: "gear",
+	description: "Start Immersive Engineering",
+	text: [
+		"With that book you can become engineer without a license. Isn't that cool? "
+	],
+	tasks: [{
+		uid: "da62bf74",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:tool",
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	}]
+}

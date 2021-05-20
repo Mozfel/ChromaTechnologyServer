@@ -1,0 +1,33 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	description: "I can see !",
+	text: [
+		"See your multiblocks thanks to an hologram "
+	],
+	dependencies: [
+		"a5e430da"
+	],
+	tasks: [{
+		uid: "dea57b08",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersivepetroleum:schematic"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "28b308dc",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "ce25f36c",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

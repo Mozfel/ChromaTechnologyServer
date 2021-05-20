@@ -1,0 +1,27 @@
+{
+	x: -3.0d,
+	y: 1.5d,
+	text: [
+		"Put your plantations under a cloche and watch them grow"
+	],
+	dependencies: [
+		"a5e430da"
+	],
+	tasks: [{
+		uid: "64f3ea76",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 13"
+		}]
+	}],
+	rewards: [{
+		uid: "e834a5bc",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "eda98d9a",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

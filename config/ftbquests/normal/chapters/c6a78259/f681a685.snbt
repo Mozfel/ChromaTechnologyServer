@@ -1,0 +1,30 @@
+{
+	title: "Your first engine ",
+	x: 0.0d,
+	y: 1.0d,
+	description: "This might help you through your journey ",
+	text: [
+		"This engine is the first thing you will have to do to begin buildcraft. It can't produce MJ ... but it can be used for other things that we're going to see in the future"
+	],
+	dependencies: [
+		"29fed36a"
+	],
+	tasks: [{
+		uid: "24dc2a41",
+		type: "item",
+		title: "First engine",
+		items: [{
+			item: "buildcraftcore:engine"
+		}]
+	}],
+	rewards: [{
+		uid: "80353df8",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "fbeeca5e",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

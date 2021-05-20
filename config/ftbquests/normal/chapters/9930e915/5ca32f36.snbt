@@ -1,0 +1,21 @@
+{
+	x: 7.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "cc2a899d",
+		type: "item",
+		items: [{
+			item: "alchemistry:element 1 70"
+		}]
+	}],
+	rewards: [{
+		uid: "6c109e35",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "10db9964",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

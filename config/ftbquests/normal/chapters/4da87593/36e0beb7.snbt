@@ -1,0 +1,70 @@
+{
+	title: "Lapis armor",
+	x: 0.0d,
+	y: -2.5d,
+	description: "Fortune Armor",
+	text: [
+		"Power Ranger Blue"
+	],
+	dependencies: [
+		"98dc108c"
+	],
+	tasks: [{
+		uid: "d2f5c01d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "armorplus:lapis_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b33e9ce7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "armorplus:lapis_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f0d23abe",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "armorplus:lapis_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a106b5af",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "armorplus:lapis_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2edf5c0f",
+		type: "loot",
+		table: 10
+	},
+	{
+		uid: "42673b2b",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

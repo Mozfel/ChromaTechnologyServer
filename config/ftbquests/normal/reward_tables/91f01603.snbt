@@ -1,0 +1,16 @@
+{
+	title: "Tier 6 - Mystical",
+	loot_size: 1,
+	rewards: [{
+		item: "minecraft:dragon_egg",
+		weight: 99
+	},
+	{
+		item: "minecraft:nether_star",
+		count: 2,
+		weight: 10
+	},
+	{
+		item: "draconicevolution:draconic_ingot"
+	}]
+}

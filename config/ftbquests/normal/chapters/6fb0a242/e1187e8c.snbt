@@ -1,0 +1,31 @@
+{
+	title: "IC2 and TechReborn",
+	x: 1.5d,
+	y: 0.0d,
+	shape: "gear",
+	description: "Open your mind to a whole new world",
+	tasks: [{
+		uid: "83197889",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ic2:wrench"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9762fadc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "techreborn:wrench"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

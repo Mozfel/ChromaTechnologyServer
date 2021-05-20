@@ -1,0 +1,27 @@
+{
+	x: -4.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "24fae329",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity 1 25"
+		}]
+	}],
+	rewards: [{
+		uid: "c9850272",
+		type: "item",
+		item: "contenttweaker:ccoins",
+		count: 20
+	},
+	{
+		uid: "cfe021a9",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "46b48653",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

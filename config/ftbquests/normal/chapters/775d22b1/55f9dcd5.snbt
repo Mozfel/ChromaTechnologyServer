@@ -1,0 +1,25 @@
+{
+	x: -3.5d,
+	y: 7.5d,
+	description: "Compressing in style",
+	dependencies: [
+		"c171e508"
+	],
+	tasks: [{
+		uid: "8ea92727",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 43"
+		}]
+	}],
+	rewards: [{
+		uid: "53e45e2a",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "2d5601fc",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

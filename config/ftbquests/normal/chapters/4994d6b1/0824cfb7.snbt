@@ -1,0 +1,44 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	description: "This mineral will be useful for everything",
+	text: [
+		"You can find this mineral in overworld, nether and end. It will be useful for crafting mod machines but also for creating crystals"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "e8188c3b",
+		type: "item",
+		items: [{
+			item: "deepresonance:resonating_ore"
+		}]
+	}],
+	rewards: [{
+		uid: "e7718fcb",
+		type: "item",
+		item: "deepresonance:resonating_ore",
+		count: 16
+	},
+	{
+		uid: "8479a6f7",
+		type: "item",
+		item: "deepresonance:resonating_ore 1 2",
+		count: 16
+	},
+	{
+		uid: "b586b0c0",
+		type: "item",
+		item: "deepresonance:resonating_ore 1 1",
+		count: 16
+	},
+	{
+		uid: "acc64171",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "0aef0527",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

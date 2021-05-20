@@ -1,0 +1,18 @@
+{
+	x: 11.5d,
+	y: -4.5d,
+	optional: true,
+	tasks: [{
+		uid: "d81d2a9b",
+		type: "item",
+		items: [{
+			item: "gendustry:honey_comb 1 11"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "2cd47577",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "Alchemical imbuer augment",
+	x: -5.5d,
+	y: 2.0d,
+	dependencies: [
+		"50095edc"
+	],
+	tasks: [{
+		uid: "e8dafbdc",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 448"
+		}]
+	}],
+	rewards: [{
+		uid: "2c5c15b7",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "6e782d42",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

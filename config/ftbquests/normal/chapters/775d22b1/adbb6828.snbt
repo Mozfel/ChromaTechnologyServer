@@ -1,0 +1,35 @@
+{
+	title: "CF storage",
+	x: -7.5d,
+	y: 10.5d,
+	text: [
+		"As you can see the CF Sprayer can only contains 8 buckets of CF.",
+		"This CF Pack can contains much more and can be worn as a chestplate (like a true backpack !) "
+	],
+	dependencies: [
+		"4c212a1a"
+	],
+	tasks: [{
+		uid: "5dd9fc7a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ic2:cf_pack",
+			Damage: 27s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3f631da2",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "e8ae42a0",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

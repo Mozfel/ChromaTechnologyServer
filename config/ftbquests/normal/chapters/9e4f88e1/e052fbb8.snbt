@@ -1,0 +1,27 @@
+{
+	title: "Tiny dry rubber",
+	x: 4.0d,
+	y: -3.5d,
+	dependencies: [
+		"fc042864",
+		"886ebaac"
+	],
+	tasks: [{
+		uid: "20b292ce",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:tinydryrubber"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "c300e056",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "13bbbbaf",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

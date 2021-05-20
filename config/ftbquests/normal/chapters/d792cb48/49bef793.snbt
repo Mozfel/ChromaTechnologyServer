@@ -1,0 +1,28 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	description: "Power connecting ",
+	text: [
+		"This can only connect two things, use relay to expand your wire network"
+	],
+	dependencies: [
+		"0275c4e2"
+	],
+	tasks: [{
+		uid: "467b669d",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector"
+		}]
+	}],
+	rewards: [{
+		uid: "ce24671a",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "6b381dd8",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

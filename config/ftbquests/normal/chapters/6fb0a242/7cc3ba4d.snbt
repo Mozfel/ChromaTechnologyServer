@@ -1,0 +1,17 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	shape: "gear",
+	description: "Start Thermal",
+	tasks: [{
+		uid: "d6444ec9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:wrench"
+		}],
+		ignore_nbt: 1b
+	}]
+}

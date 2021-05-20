@@ -1,0 +1,10 @@
+{
+	title: "Chapter 2 : Technology ",
+	icon: "jaopca:item_gearlapis",
+	tags: [
+		""
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

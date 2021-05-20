@@ -1,0 +1,23 @@
+{
+	title: "Botania",
+	x: -3.0d,
+	y: 0.0d,
+	shape: "gear",
+	description: "Make magic with flower !",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "539d3f97",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:lexicon",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

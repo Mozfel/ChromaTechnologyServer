@@ -1,0 +1,29 @@
+{
+	title: "CF powder",
+	x: -7.5d,
+	y: 8.5d,
+	description: "Why am I crafting this?",
+	text: [
+		"The goal of those quests is to make Reinforced Stone. So the first you have to do is this quest. The following quests will guide you until you can craft the reinforced stone. Each step will be explained"
+	],
+	dependencies: [
+		"10181e75"
+	],
+	tasks: [{
+		uid: "8af9dcb7",
+		type: "item",
+		items: [{
+			item: "ic2:crafting 1 25"
+		}]
+	}],
+	rewards: [{
+		uid: "86bf88d5",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "38de1282",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

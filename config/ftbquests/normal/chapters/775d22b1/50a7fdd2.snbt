@@ -1,0 +1,25 @@
+{
+	title: "An amout of HeliumPlasma ...",
+	x: 21.0d,
+	y: 5.0d,
+	description: "That's worth believe me",
+	dependencies: [
+		"30b08106"
+	],
+	tasks: [{
+		uid: "edbc49b5",
+		type: "fluid",
+		fluid: "fluidheliumplasma",
+		amount: 5000
+	}],
+	rewards: [{
+		uid: "1e400a82",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "fc521e70",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: -2.0d,
+	y: 2.0d,
+	dependencies: [
+		"40fd1ec3"
+	],
+	tasks: [{
+		uid: "80dd5b3e",
+		type: "item",
+		items: [{
+			item: "enderutilities:ender_elevator"
+		}]
+	}],
+	rewards: [{
+		uid: "905fb458",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "d4b817eb",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	title: "Chapter 8 - Deep Resonance",
+	icon: {
+		id: "deepresonance:resonating_crystal",
+		tag: {
+			efficiency: 100.0f,
+			strength: 100.0f,
+			purity: 100.0f,
+			power: 100.0f,
+			version: 2b
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

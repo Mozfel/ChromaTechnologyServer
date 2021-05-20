@@ -1,0 +1,70 @@
+{
+	title: "Super star armor",
+	x: -4.0d,
+	y: 5.5d,
+	description: "I'm a Super Star",
+	text: [
+		"I'm a Star and I give love to people"
+	],
+	dependencies: [
+		"b252434b"
+	],
+	tasks: [{
+		uid: "0125e5c4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "armorplus:super_star_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2825a9b7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "armorplus:super_star_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "74ea8893",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "armorplus:super_star_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "951097c6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "armorplus:super_star_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c1a56f00",
+		type: "loot",
+		table: 10
+	},
+	{
+		uid: "f70bf785",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

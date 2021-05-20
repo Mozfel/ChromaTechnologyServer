@@ -1,0 +1,31 @@
+{
+	x: 5.0d,
+	y: 4.0d,
+	description: "Nether Ore !",
+	text: [
+		" It acts as an Orechid, but for Netherrack– it generates nether ores such as Nether Quartz Ore. The flower has to be in the Nether to function."
+	],
+	dependencies: [
+		"a4fc7f07"
+	],
+	tasks: [{
+		uid: "cb1c83f9",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "orechidIgnem"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "8a580e42",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "5dde4598",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

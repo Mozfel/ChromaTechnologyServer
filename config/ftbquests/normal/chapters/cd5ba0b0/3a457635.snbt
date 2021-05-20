@@ -1,0 +1,28 @@
+{
+	title: "Prosperity Shards ",
+	x: 2.0d,
+	y: 4.0d,
+	shape: "gear",
+	description: "Is that OP? ",
+	dependencies: [
+		"dbba2956",
+		"5836b5fd"
+	],
+	tasks: [{
+		uid: "f3fc6109",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:crafting 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "b5d97a2b",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "0c05b0d9",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

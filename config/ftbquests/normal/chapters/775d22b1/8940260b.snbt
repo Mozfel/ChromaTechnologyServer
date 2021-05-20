@@ -1,0 +1,30 @@
+{
+	title: "Coils for Freedom",
+	x: 20.0d,
+	y: 9.0d,
+	description: "All you needed is right there ",
+	text: [
+		"This is finally it, the final thing to do to have the Tungstensteel Ingot now just simply follow the craft from JEI and tada !"
+	],
+	dependencies: [
+		"d666520c"
+	],
+	tasks: [{
+		uid: "c2a74a8c",
+		type: "item",
+		items: [{
+			item: "techreborn:part 1 15"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "4594ccd5",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "c715a514",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

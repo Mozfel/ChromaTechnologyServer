@@ -1,0 +1,23 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	description: "MJ for the win :)",
+	dependencies: [
+		"5aa1dbcf"
+	],
+	tasks: [{
+		uid: "ea4d8aea",
+		type: "buildcraft_mj",
+		value: 5000000000L
+	}],
+	rewards: [{
+		uid: "33482887",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "6203592f",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

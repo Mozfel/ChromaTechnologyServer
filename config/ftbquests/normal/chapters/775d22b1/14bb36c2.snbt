@@ -1,0 +1,37 @@
+{
+	title: "Reinforced Stone",
+	x: -7.5d,
+	y: 11.5d,
+	text: [
+		"So to finish your craft (no it's not long since on JEI the craft is not even shown :P)",
+		"You will have to craft those Scaffold and put them on the ground and then spread some CF on it and you'll just have to wait ...",
+		"Oh one more thing ... If you are some kind of human that does not like to wait I'll advise you to right click with a sand... Just sayin'"
+	],
+	dependencies: [
+		"adbb6828"
+	],
+	tasks: [{
+		uid: "e3cb923e",
+		type: "item",
+		items: [{
+			item: "ic2:scaffold 1 2"
+		}]
+	},
+	{
+		uid: "d02a8fd5",
+		type: "item",
+		items: [{
+			item: "ic2:resource 1 11"
+		}]
+	}],
+	rewards: [{
+		uid: "b8432cb4",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "c7e4b889",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

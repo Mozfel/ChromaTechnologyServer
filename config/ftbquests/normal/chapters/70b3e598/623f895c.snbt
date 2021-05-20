@@ -1,0 +1,26 @@
+{
+	title: "Dense ME conduit",
+	x: 0.5d,
+	y: 9.5d,
+	dependencies: [
+		"49fd82a6"
+	],
+	tasks: [{
+		uid: "3e96719b",
+		type: "item",
+		items: [{
+			item: "enderio:item_me_conduit 1 1"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "4c25b3e1",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "9cb7117e",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

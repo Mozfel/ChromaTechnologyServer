@@ -1,0 +1,16 @@
+{
+	title: "Chapter 18 - Dimensions",
+	icon: {
+		id: "huntingdim:frame",
+		tag: {
+			BaseBlock: {
+				id: "minecraft:log",
+				Count: 1b,
+				Damage: 0s
+			}
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

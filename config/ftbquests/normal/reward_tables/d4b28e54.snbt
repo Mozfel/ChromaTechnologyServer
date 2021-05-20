@@ -1,0 +1,82 @@
+{
+	title: "Quetes abeille",
+	loot_size: 1,
+	rewards: [{
+		item: "forestry:hardened_machine",
+		count: 3
+	},
+	{
+		item: "forestry:sturdy_machine",
+		count: 4
+	},
+	{
+		item: "forestry:apatite",
+		count: 16,
+		weight: 2
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forestry:portable_alyzer"
+		}
+	},
+	{
+		item: {
+			id: "forestry:chipsets",
+			tag: {
+				T: 0s
+			}
+		},
+		count: 4
+	},
+	{
+		item: {
+			id: "forestry:chipsets",
+			tag: {
+				T: 1s
+			},
+			Damage: 1s
+		},
+		count: 3
+	},
+	{
+		item: {
+			id: "forestry:chipsets",
+			tag: {
+				T: 2s
+			},
+			Damage: 2s
+		},
+		count: 2
+	},
+	{
+		item: {
+			id: "forestry:chipsets",
+			tag: {
+				T: 3s
+			},
+			Damage: 3s
+		}
+	},
+	{
+		item: "forestry:crafting_material 1 2",
+		count: 16
+	},
+	{
+		item: "forestry:fruits",
+		count: 32
+	},
+	{
+		item: "forestry:crafting_material 1 3",
+		count: 2
+	},
+	{
+		item: "forestry:flexible_casing"
+	},
+	{
+		item: "forestry:impregnated_casing",
+		count: 2
+	}]
+}

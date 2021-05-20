@@ -1,0 +1,17 @@
+{
+	x: 23.5d,
+	y: -4.5d,
+	optional: true,
+	tasks: [{
+		uid: "b715f68d",
+		type: "item",
+		items: [{
+			item: "magicbees:moondial"
+		}]
+	}],
+	rewards: [{
+		uid: "dbe76d92",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

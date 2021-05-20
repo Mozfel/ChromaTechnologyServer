@@ -1,0 +1,41 @@
+{
+	title: "Teleporting ",
+	x: -6.5d,
+	y: 6.0d,
+	text: [
+		"To use it correctly you have to connect a EU storage machine and some redstone to teleport to another destination (Don't forget to link your teleporters with the remote)"
+	],
+	dependencies: [
+		"c171e508"
+	],
+	tasks: [{
+		uid: "ce1d7d34",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 39"
+		}]
+	},
+	{
+		uid: "c2efd333",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ic2:frequency_transmitter",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f71f3a4e",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "60b9dd8c",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

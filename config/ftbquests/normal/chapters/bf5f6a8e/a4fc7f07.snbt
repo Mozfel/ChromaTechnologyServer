@@ -1,0 +1,31 @@
+{
+	x: 4.0d,
+	y: 4.0d,
+	description: "Generate ores !",
+	text: [
+		"When supplied with a massive amount of Mana, it will turn nearby stone blocks into ores"
+	],
+	dependencies: [
+		"9f79d2e8"
+	],
+	tasks: [{
+		uid: "ccb2d0b9",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "orechid"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "f34a2147",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "00beb0b0",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

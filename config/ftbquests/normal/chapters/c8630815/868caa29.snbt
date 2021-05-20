@@ -1,0 +1,17 @@
+{
+	x: 22.0d,
+	y: -4.5d,
+	optional: true,
+	tasks: [{
+		uid: "f0738bbc",
+		type: "item",
+		items: [{
+			item: "magicbees:resource 1 11"
+		}]
+	}],
+	rewards: [{
+		uid: "e019654b",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

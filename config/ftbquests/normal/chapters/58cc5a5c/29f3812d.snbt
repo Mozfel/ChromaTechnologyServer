@@ -1,0 +1,31 @@
+{
+	x: -1.5d,
+	y: 1.5d,
+	text: [
+		"Throw the seeds on the ground to complete the quest"
+	],
+	dependencies: [
+		"63455314"
+	],
+	tasks: [{
+		uid: "939a9c7f",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:crystal_seed",
+			tag: {
+				progress: 600
+			},
+			Damage: 600s
+		}]
+	}],
+	rewards: [{
+		uid: "99d23cc3",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "33a54389",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

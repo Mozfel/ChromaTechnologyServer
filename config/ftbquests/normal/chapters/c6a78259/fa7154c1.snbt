@@ -1,0 +1,25 @@
+{
+	x: -3.5d,
+	y: -0.5d,
+	description: "A better way to filter your items. You have to setup the items in the buffer first :)",
+	dependencies: [
+		"40f353e6"
+	],
+	tasks: [{
+		uid: "9af92345",
+		type: "item",
+		items: [{
+			item: "buildcrafttransport:filtered_buffer"
+		}]
+	}],
+	rewards: [{
+		uid: "7d6ef865",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "416f428d",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

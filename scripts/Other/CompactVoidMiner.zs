@@ -1,0 +1,29 @@
+recipes.remove(<compactvoidminers:void_miner>);
+recipes.remove(<compactvoidminers:void_pump>);
+
+// Compact Void Miner ================================================================================
+mods.extendedcrafting.TableCrafting.addShaped(0, <compactvoidminers:void_miner>, [
+	[<environmentaltech:void_res_miner_cont_6>, <ore:blockUltimate>, <ore:blockUltimate>, <ore:blockUltimate>, <ore:blockUltimate>, <ore:blockUltimate>, <ore:blockUltimate>, <ore:blockUltimate>, <environmentaltech:void_ore_miner_cont_6>], 
+	[<ore:blockUltimate>, <mekanism:transmitter:3>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <mekanism:transmitter:3>.withTag({tier: 3}), <ore:blockUltimate>], 
+	[<ore:blockUltimate>, <mekanism:transmitter>.withTag({tier: 3}), <mekanism:machineblock2:15>, <mekanism:machineblock2:13>, <mekanism:machineblock2:13>, <mekanism:machineblock2:13>, <mekanism:machineblock2:15>, <mekanism:transmitter>.withTag({tier: 3}), <ore:blockUltimate>], 
+	[<ore:blockUltimate>, <mekanism:transmitter>.withTag({tier: 3}), <mekanism:machineblock2:13>, <mekanism:machineblock:4>, <overloaded:energy_core>, <mekanism:machineblock:4>, <mekanism:machineblock2:13>, <mekanism:transmitter>.withTag({tier: 3}), <ore:blockUltimate>], 
+	[<ore:blockUltimate>, <mekanism:transmitter>.withTag({tier: 3}), <mekanism:machineblock2:13>, <mekanism:machineblock3:3>, <extendedcrafting:singularity_ultimate>, <mekanism:machineblock3:3>, <mekanism:machineblock2:13>, <mekanism:transmitter>.withTag({tier: 3}), <ore:blockUltimate>], 
+	[<ore:blockUltimate>, <mekanism:transmitter>.withTag({tier: 3}), <mekanism:machineblock2:13>, <mekanism:machineblock:4>, <overloaded:item_core>, <mekanism:machineblock:4>, <mekanism:machineblock2:13>, <mekanism:transmitter>.withTag({tier: 3}), <ore:blockUltimate>], 
+	[<ore:blockUltimate>, <mekanism:transmitter>.withTag({tier: 3}), <mekanism:machineblock2:15>, <mekanism:machineblock2:13>, <mekanism:machineblock2:13>, <mekanism:machineblock2:13>, <mekanism:machineblock2:15>, <mekanism:transmitter>.withTag({tier: 3}), <ore:blockUltimate>], 
+	[<ore:blockUltimate>, <mekanism:transmitter:3>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <mekanism:transmitter:3>.withTag({tier: 3}), <ore:blockUltimate>], 
+	[<environmentaltech:void_ore_miner_cont_6>, <ore:blockUltimate>, <ore:blockUltimate>, <ore:blockUltimate>, <ore:blockUltimate>, <ore:blockUltimate>, <ore:blockUltimate>, <ore:blockUltimate>, <environmentaltech:void_res_miner_cont_6>]
+]);
+
+// Compact Void Pump ================================================================================
+mods.extendedcrafting.TableCrafting.addShaped(0, <compactvoidminers:void_pump>, [
+	[<mekanism:machineblock2>, <ore:blockUltimate>, <ore:blockUltimate>, <ore:blockUltimate>, <ore:blockUltimate>, <ore:blockUltimate>, <ore:blockUltimate>, <ore:blockUltimate>, <mekanism:machineblock2>], 
+	[<ore:blockUltimate>, <mekanism:transmitter:1>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <mekanism:transmitter:1>.withTag({tier: 3}), <ore:blockUltimate>], 
+	[<ore:blockUltimate>, <mekanism:transmitter>.withTag({tier: 3}), <mekanism:machineblock2:11>.withTag({tier: 4}), <mekanism:machineblock2:11>.withTag({tier: 3}), <mekanism:machineblock2:11>.withTag({tier: 3}), <mekanism:machineblock2:11>.withTag({tier: 3}), <mekanism:machineblock2:11>.withTag({tier: 4}), <mekanism:transmitter>.withTag({tier: 3}), <ore:blockUltimate>], 
+	[<ore:blockUltimate>, <mekanism:transmitter>.withTag({tier: 3}), <mekanism:machineblock2:11>.withTag({tier: 3}), <mekanism:machineblock2:12>, <extendedcrafting:singularity_ultimate>, <mekanism:machineblock:12>, <mekanism:machineblock2:11>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <ore:blockUltimate>], 
+	[<ore:blockUltimate>, <mekanism:transmitter>.withTag({tier: 3}), <mekanism:machineblock2:11>.withTag({tier: 3}), <overloaded:energy_core>, <compactvoidminers:void_miner>, <overloaded:fluid_core>, <mekanism:machineblock2:11>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <ore:blockUltimate>], 
+	[<ore:blockUltimate>, <mekanism:transmitter>.withTag({tier: 3}), <mekanism:machineblock2:11>.withTag({tier: 3}), <mekanism:machineblock:12>, <extendedcrafting:singularity_ultimate>, <mekanism:machineblock2:12>, <mekanism:machineblock2:11>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <ore:blockUltimate>], 
+	[<ore:blockUltimate>, <mekanism:transmitter>.withTag({tier: 3}), <mekanism:machineblock2:11>.withTag({tier: 4}), <mekanism:machineblock2:11>.withTag({tier: 3}), <mekanism:machineblock2:11>.withTag({tier: 3}), <mekanism:machineblock2:11>.withTag({tier: 3}), <mekanism:machineblock2:11>.withTag({tier: 4}), <mekanism:transmitter>.withTag({tier: 3}), <ore:blockUltimate>], 
+	[<ore:blockUltimate>, <mekanism:transmitter:1>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <mekanism:transmitter>.withTag({tier: 3}), <mekanism:transmitter:1>.withTag({tier: 3}), <ore:blockUltimate>], 
+	[<mekanism:machineblock2>, <ore:blockUltimate>, <ore:blockUltimate>, <ore:blockUltimate>, <ore:blockUltimate>, <ore:blockUltimate>, <ore:blockUltimate>, <ore:blockUltimate>, <mekanism:machineblock2>]
+]);
+

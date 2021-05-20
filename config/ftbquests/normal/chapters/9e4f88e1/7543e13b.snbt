@@ -1,0 +1,21 @@
+{
+	x: 11.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "7aa1c883",
+		type: "item",
+		items: [{
+			item: "teslacorelib:base_addon"
+		}]
+	}],
+	rewards: [{
+		uid: "68ab3051",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "2fbf9081",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

@@ -1,0 +1,49 @@
+{
+	title: "Black hole",
+	x: 7.0d,
+	y: -9.0d,
+	dependencies: [
+		"d7792c78"
+	],
+	tasks: [{
+		uid: "871737a7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "industrialforegoing:black_hole_unit"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4e56fe88",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:black_hole_controller_reworked"
+		}]
+	},
+	{
+		uid: "cf5cc379",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "industrialforegoing:black_hole_tank"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6beeadbc",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "5177eb02",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

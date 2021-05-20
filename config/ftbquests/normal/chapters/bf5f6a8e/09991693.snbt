@@ -1,0 +1,31 @@
+{
+	x: 0.0d,
+	y: 4.0d,
+	description: "The cake is a lie",
+	text: [
+		"It generates Mana by consuming Cake."
+	],
+	dependencies: [
+		"bcad9776"
+	],
+	tasks: [{
+		uid: "274cf939",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "kekimurus"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "8d8e6d8a",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "6974df0e",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

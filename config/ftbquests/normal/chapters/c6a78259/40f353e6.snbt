@@ -1,0 +1,43 @@
+{
+	title: "Transport your first items",
+	x: -2.0d,
+	y: -0.5d,
+	description: "This might help you for later...",
+	text: [
+		"So the main goal is to transport from a container to another.",
+		"The first thing you have to do is to connect your wooden pipe to the container that will have items to be extracted ",
+		"That means that you will only have one wooden pipe and the other pipes are in cobble (or other materials). ",
+		"Now that setup is ready to go but it misses a thing... The Redstone Engine ! Yes you'll need this bad boy to extract...",
+		"Simply put the engine in front of one side of the wooden pipe and put a lever near that engine and pull it",
+		""
+	],
+	dependencies: [
+		"f681a685"
+	],
+	tasks: [{
+		uid: "dce1a05b",
+		type: "item",
+		items: [{
+			item: "buildcrafttransport:pipe_wood_item"
+		}]
+	},
+	{
+		uid: "98cb802b",
+		type: "item",
+		items: [{
+			item: "buildcrafttransport:pipe_cobble_item"
+		}],
+		count: 8L,
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "6c4fde8a",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "c9a906a2",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

@@ -1,0 +1,144 @@
+{
+	title: "Tier 4 - Mystical",
+	loot_size: 1,
+	rewards: [{
+		item: "botania:manaresource 1 7",
+		count: 4
+	},
+	{
+		item: "enderio:item_alloy_ingot",
+		count: 8
+	},
+	{
+		item: "galacticraftcore:item_basic_moon",
+		count: 4
+	},
+	{
+		item: "twilightforest:fiery_ingot",
+		count: 4
+	},
+	{
+		item: "minecraft:gold_ingot",
+		count: 8
+	},
+	{
+		item: "mekanism:ingot 1 3",
+		count: 8
+	},
+	{
+		item: "mekanism:ingot 1 1",
+		count: 8
+	},
+	{
+		item: "minecraft:dye 1 4",
+		count: 16
+	},
+	{
+		item: "twilightforest:knightmetal_ingot",
+		count: 8
+	},
+	{
+		item: "minecraft:blaze_rod",
+		count: 8
+	},
+	{
+		item: "minecraft:ghast_tear",
+		count: 4
+	},
+	{
+		item: "minecraft:end_stone",
+		count: 32
+	},
+	{
+		item: "thaumcraft:ingot 1 1",
+		count: 4
+	},
+	{
+		item: "tconstruct:ingots",
+		count: 8
+	},
+	{
+		item: "thermalfoundation:material 1 162",
+		count: 8
+	},
+	{
+		item: "thermalfoundation:material 1 164",
+		count: 8
+	},
+	{
+		item: "minecraft:experience_bottle",
+		count: 4
+	},
+	{
+		item: "redstonearsenal:material 1 32",
+		count: 4
+	},
+	{
+		item: "immersiveengineering:material 1 19",
+		count: 4
+	},
+	{
+		item: "appliedenergistics2:material 1 7",
+		count: 8
+	},
+	{
+		item: "enderio:item_alloy_ingot 1 5",
+		count: 8
+	},
+	{
+		item: "minecraft:ender_pearl",
+		count: 8
+	},
+	{
+		item: "thermalfoundation:material 1 166",
+		count: 8
+	},
+	{
+		item: "botania:manaresource",
+		count: 8
+	},
+	{
+		item: "enderio:item_alloy_ingot 1 1",
+		count: 8
+	},
+	{
+		item: "enderio:item_alloy_ingot 1 7",
+		count: 8
+	},
+	{
+		item: "enderio:item_alloy_ingot 1 4",
+		count: 8
+	},
+	{
+		item: "thermalfoundation:material 1 165",
+		count: 8
+	},
+	{
+		item: "pneumaticcraft:ingot_iron_compressed",
+		count: 8
+	},
+	{
+		item: "nuclearcraft:ingot 1 7",
+		count: 8
+	},
+	{
+		item: "nuclearcraft:ingot 1 6",
+		count: 8
+	},
+	{
+		item: "thaumcraft:ingot 1 2",
+		count: 8
+	},
+	{
+		item: "thermalfoundation:material 1 133",
+		count: 8
+	},
+	{
+		item: "nuclearcraft:ingot 1 5",
+		count: 8
+	},
+	{
+		item: "nuclearcraft:ingot 1 3",
+		count: 8
+	}]
+}

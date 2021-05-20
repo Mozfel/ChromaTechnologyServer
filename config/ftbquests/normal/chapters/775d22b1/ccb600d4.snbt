@@ -1,0 +1,36 @@
+{
+	title: "UU_Matter",
+	x: 11.0d,
+	y: 3.5d,
+	description: "A new kind of Matter",
+	text: [
+		"Useful for some craft... Don't ignore it :D"
+	],
+	dependencies: [
+		"2762d539"
+	],
+	tasks: [{
+		uid: "d117acd6",
+		type: "item",
+		items: [{
+			item: "techreborn:matter_fabricator"
+		}]
+	}],
+	rewards: [{
+		uid: "5bb34e9c",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "5912addc",
+		type: "item",
+		item: "contenttweaker:ccoins",
+		count: 10,
+		random_bonus: 6
+	},
+	{
+		uid: "96f99c5c",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

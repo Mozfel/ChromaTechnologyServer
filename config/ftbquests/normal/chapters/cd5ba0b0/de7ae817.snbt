@@ -1,0 +1,27 @@
+{
+	title: "Dimensional Shards",
+	x: 6.0d,
+	y: -0.5d,
+	shape: "gear",
+	description: "Making Dimensions",
+	dependencies: [
+		"33642fe4"
+	],
+	tasks: [{
+		uid: "f920733d",
+		type: "item",
+		items: [{
+			item: "rftools:dimensional_shard"
+		}]
+	}],
+	rewards: [{
+		uid: "d80115a3",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "5a09f53b",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

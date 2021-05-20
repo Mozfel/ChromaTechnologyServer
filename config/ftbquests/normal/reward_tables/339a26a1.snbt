@@ -1,0 +1,92 @@
+{
+	title: "Tier 2 - Mystical",
+	loot_size: 1,
+	rewards: [{
+		item: "minecraft:feather",
+		count: 16
+	},
+	{
+		item: "forestry:apatite",
+		count: 16
+	},
+	{
+		item: "minecraft:beef",
+		count: 8
+	},
+	{
+		item: "minecraft:leather",
+		count: 8
+	},
+	{
+		item: "minecraft:egg",
+		count: 8
+	},
+	{
+		item: "minecraft:dye",
+		count: 8
+	},
+	{
+		item: "minecraft:porkchop",
+		count: 8
+	},
+	{
+		item: "minecraft:chicken",
+		count: 8
+	},
+	{
+		item: "thermalfoundation:material 1 771",
+		count: 8
+	},
+	{
+		item: "ic2:crafting",
+		count: 8
+	},
+	{
+		item: "minecraft:slime_ball",
+		count: 8
+	},
+	{
+		item: "enderio:item_material 1 20",
+		count: 8
+	},
+	{
+		item: "chisel:marble2 1 7",
+		count: 32
+	},
+	{
+		item: "chisel:limestone2 1 7",
+		count: 32
+	},
+	{
+		item: "chisel:basalt2 1 7",
+		count: 32
+	},
+	{
+		item: "minecraft:netherrack",
+		count: 32
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:lava_bucket"
+		}
+	},
+	{
+		item: "minecraft:mutton",
+		count: 8
+	},
+	{
+		item: "minecraft:wool",
+		count: 8
+	},
+	{
+		item: "thermalfoundation:material 1 128",
+		count: 8
+	},
+	{
+		item: "thermalfoundation:material 1 132",
+		count: 8
+	}]
+}

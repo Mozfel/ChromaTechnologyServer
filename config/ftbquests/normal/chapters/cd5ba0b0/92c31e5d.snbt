@@ -1,0 +1,28 @@
+{
+	title: "Tin ore",
+	x: -1.0d,
+	y: 4.5d,
+	shape: "gear",
+	description: "Tin man that's TIN ! YAY",
+	dependencies: [
+		"dbba2956",
+		"5836b5fd"
+	],
+	tasks: [{
+		uid: "270476a6",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:ore 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "0d0b5f88",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "4b7ff0a8",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

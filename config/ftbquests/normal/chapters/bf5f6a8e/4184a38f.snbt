@@ -1,0 +1,31 @@
+{
+	x: 4.0d,
+	y: 3.0d,
+	description: "So much flower !",
+	text: [
+		" When supplied with Mana by a Mana Pool within a 10 block radius, it will quickly grow mystical flowers in a 9x9 space around it on grass and dirt blocks."
+	],
+	dependencies: [
+		"9f79d2e8"
+	],
+	tasks: [{
+		uid: "05baec91",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "jadedAmaranthus"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "0262121f",
+		type: "random",
+		table: 10
+	},
+	{
+		uid: "1a6fd95b",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

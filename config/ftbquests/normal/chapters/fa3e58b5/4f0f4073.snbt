@@ -1,0 +1,24 @@
+{
+	title: "Thaumcraft",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	description: "Watch out for corruption !",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "dd06ae76",
+		type: "item",
+		items: [{
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "aer"
+				}]
+			}
+		}],
+		ignore_nbt: 2b
+	}]
+}
